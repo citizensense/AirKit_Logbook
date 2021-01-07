@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-03-18T16:33:26Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "airkit_proto_finish_routing_complete"
+        },
+        "Owner": "Joanne Armitage <joannnne@me.com>",
+        "Size": {
+            "X": 55.51,
+            "Y": 53.25
+        }
+    }
+}
