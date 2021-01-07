@@ -23,7 +23,7 @@ Air pollution is a planetary health emergency. Nearly 9 million people worldwide
 
 This AirKit Logbook includes resources for learning more about air quality and air pollution, including strategies for setting up air quality monitoring projects and campaigns to improve air quality. The Logbook also contains instructions for building, setting up, calibrating and using an air quality sensor for monitoring particulate matter, the Dustbox 2.0. There are resources for analyzing your data on our data analysis platform, [Airsift](https://airsift.citizensense.net/), which allows you to map and record observations and to generate data stories with citizen data. The AirKit Logbook has three Appendices that include an FAQ and troubleshooting section to answer common questions relating to different elements of AirKit, instructions for building your own Stevenson screen as a weatherproof Dustbox 2.0 shelter, and additional resources on air quality.
 
-AirKit is developed through the [Citizen Sense](https://citizensense.net) project, which is led by Prof Jennifer Gabrys as part of the [Planetary Praxis](https://planetarypraxis.org/) research group in the Department of Sociology at the University of Cambridge. This research has received funding from the European Research Council (ERC) to support Citizen Sense(https://citizensense.net) through an ERC Starting Grant [313347](https://cordis.europa.eu/project/id/313347), and to support AirKit through an ERC Proof of Concept Grant [779921](https://cordis.europa.eu/project/id/779921). We welcome your comments and feedback to improve the toolkit. If you would like to get in touch, you can contact us at [info@citizensense.net](mailto:info@citizensense.net). 
+AirKit is developed through the [Citizen Sense](https://citizensense.net) project, which is led by Prof Jennifer Gabrys as part of the [Planetary Praxis](https://planetarypraxis.org/) research group in the Department of Sociology at the University of Cambridge. This research has received funding from the European Research Council (ERC) to support [Citizen Sense](https://citizensense.net) through an ERC Starting Grant [313347](https://cordis.europa.eu/project/id/313347), and to support AirKit through an ERC Proof of Concept Grant [779921](https://cordis.europa.eu/project/id/779921). We welcome your comments and feedback to improve the toolkit. If you would like to get in touch, you can contact us at [info@citizensense.net](mailto:info@citizensense.net). 
  
 <p><img src="./images_2/IMG1_walk_clean_air_for_dalmain_with_a_plane!.JPG" alt = "A plane flies above the green screen at Dalmain Primary School" title= "A plane flies above the green screen at Dalmain Primary School" width="600"><br><sup>A plane flies above the green screen at Dalmain Primary School</sup></p>
 
@@ -107,9 +107,9 @@ The next stage is to organise a workshop and walk together around the local area
 * A walk can be an effective way to visit possible monitoring locations, and to allow different members of the group to suggest additional locations.
 * When you walk around the area, highlight and note development and construction sites in the area, traffic hotspots, existing monitors, and smart infrastructure that could be collecting different environmental data. 
 * Think about how the placement of sensors will allow you to address aspects of your questions.
-* You can upload maps, walk itineraries and related materials to the Airsift(https://airsift.citizensense.net/) [https://airsift.citizensense.net/] platform as observations related to your Dustbox locations and monitoring network. You can also compose these observations into Data Stories that you can share more widely.
+* You can upload maps, walk itineraries and related materials to the [Airsift](https://airsift.citizensense.net/) platform as observations related to your Dustbox locations and monitoring network. You can also compose these observations into Data Stories that you can share more widely.
 
-A carefully considered plan for setting up your monitoring network can allow you to answer your questions about air quality more effectively, while developing stronger arguments from your findings. It can also ensure that you have adequate resources for your monitoring activity and to anticipate and identify possible problems and issues. We suggest that you document the process of setting up your monitoring network through photographs, video and shared notes, which you can also add to the [Airsift](hhttps://airsift.citizensense.net/) [https://airsift.citizensense.net/] platform. This material will provide a key resource for analyzing and narrating your air quality data.  
+A carefully considered plan for setting up your monitoring network can allow you to answer your questions about air quality more effectively, while developing stronger arguments from your findings. It can also ensure that you have adequate resources for your monitoring activity and to anticipate and identify possible problems and issues. We suggest that you document the process of setting up your monitoring network through photographs, video and shared notes, which you can also add to the [Airsift](https://airsift.citizensense.net/) platform. This material will provide a key resource for analyzing and narrating your air quality data.  
    
 Additional air quality resources that could help you set up your citizen sensing study are included in [Appendix 3](https://github.com/citizensense/Airkit/blob/master/toolkit.md#appendix-3-additional-resources). 
 
@@ -133,9 +133,9 @@ When documenting your sensor setup, it is important to describe your approach to
 
 ## 3. Building a Dustbox 2.0 
 
-The Dustbox 2.0 is a particulate matter monitor designed by Citizen Sense to undertake air quality sensing. We have designed the Dustbox 2.0 based on our experience of citizen sensing in the US and the UK, including with our Dustbox 1.0(https://citizensense.net/kits/dustbox-hardware/). 
+The Dustbox 2.0 is a particulate matter monitor designed by Citizen Sense to undertake air quality sensing. We have designed the Dustbox 2.0 based on our experience of citizen sensing in the US and the UK, including with our [Dustbox 1.0](https://citizensense.net/kits/dustbox-hardware/). 
 
-The shape of the Dustbox 2.0 resembles particulate matter, including pollen and diesel particles, when magnified under an electron microscope. The housing is 3D-printed. The Dustbox 2.0 uses a Plantower PMS5003(http://www.plantower.com/en/content/?108.html) sensor to sense particles. These sensors have laser counters that measure airborne particulate matter. There is a small fan that draws air into the sensor and passes it through a laser that can detect the concentration and size of particles in the air. 
+The shape of the Dustbox 2.0 resembles particulate matter, including pollen and diesel particles, when magnified under an electron microscope. The housing is 3D-printed. The Dustbox 2.0 uses a [Plantower PMS5003](http://www.plantower.com/en/content/?108.html) sensor to sense particles. These sensors have laser counters that measure airborne particulate matter. There is a small fan that draws air into the sensor and passes it through a laser that can detect the concentration and size of particles in the air. 
 
 Every 60 seconds, the Dustbox 2.0 monitor measures 3 different environmental variables: (1) particulate matter, (2) temperature and (3) humidity. Such fine-grained data can help to observe and understand even small variations in the surrounding air. The Dustbox 2.0 connects to a Wi-Fi network using a microcontroller and sends data to the Airsift(airsift.citizensense.net/) platform for analysis. 
 
@@ -562,7 +562,7 @@ The device will start recording the data once the data logging mode is selected 
  <br><sup>Configuring the Sidepak for calibration</sup>
  </p>
 
-The data from the Dustbox will be available to download as a CSV file using [Airsift](https://airsift.citizensense.net/) [https://airsift.citizensense.net/]. Just navigate to the Dustboxes(https://airsift.citizensense.net/dustboxes/) page, click on 'Analyse Data', add in the dates from the co-location exercise and select 'download as CSV'.
+The data from the Dustbox will be available to download as a CSV file using [Airsift](https://airsift.citizensense.net/). Just navigate to the [Dustboxes](https://airsift.citizensense.net/dustboxes/) page, click on 'Analyse Data', add in the dates from the co-location exercise and select 'download as CSV'.
 
 Before you combine the different sensor data you need to do a small amount of data processing. The data from TSI AM520 is in mg/m^3, so before you can compare the TSI AM520 data with Dustbox data you need to convert the TSI AM520 data into µg/m^3. For this, open up the csv file of data in your preferred spreadsheet application (i.e., Excel, LibreOffice) or programming environment (i.e. Python, MatLab, R) and multiply all the PM data by 1000. Once the conversion is complete all the data can be combined for comparison. To compare data, look at the TSI AM520 data and establish what time data collection began. Open up the Dustbox data CSV and look for the corresponding time, and select the column labelled PM 2.5. Copy across both data sets into a new spreadsheet ensuring the times correspond to the minute.
     
@@ -640,7 +640,7 @@ The first time you turn on your Dustbox 2.0 you will need to connect it to a Wi-
 </p>
 
 14. You can analyze your data in our DIY data analysis tool, [Airsift](https://airsift.citizensense.net/). This tool allows you to select the date range, data mean (e.g., hourly data), and to compare your data to other monitoring sites, including LAQN sites. You can also download your data as image files (.png) or data files (.csv) from the Airsift tool.
-15. For an example of how plots and graphs from the Airsift tool can be put together into ‘Data Stories’, see our [Deptford Data Stories](https://citizensense.net/data-stories-deptford/) at [https://citizensense.net/data-stories-deptford/]. Find more details and instructions for creating your own data story in [Section 5.6](https://github.com/citizensense/Airkit/blob/master/toolkit.md#56-airsift-data-stories).
+15. For an example of how plots and graphs from the Airsift tool can be put together into ‘Data Stories’, see our [Deptford Data Stories](https://citizensense.net/data-stories-deptford/). Find more details and instructions for creating your own data story in [Section 5.6](https://github.com/citizensense/Airkit/blob/master/toolkit.md#56-airsift-data-stories).
 
 Note: In case the Dustbox does not respond or the LED doesn't switch off, just press the reset button once and wait for it to reconnect. Once reconnected the LED will stop flashing.
 
@@ -658,7 +658,7 @@ The AirKit toolkit should be relatively straightforward to use, and the Dustbox 
 * While you will need to open up the device for cleaning, you should avoid dismantling the electronics as this could present a risk of shock and could interfere with the measurement functioning of the device.
 * Ensure the Dustbox 2.0 is maintained and in a good state of repair before setup and during use.
 * Please note that if you borrow a Dustbox 2.0 from us, you agree to take care of your kit and return it to us when requested. 
-If you are concerned about any changes in the equipment or have any questions about how to maintain it, please contact [info@citizensense.net](mailto:info@citizensense.net). Be sure to review our Terms of Use(https://citizensense.net/about/terms/) for full guidance. Citizen Sense does not accept liability for the faulty construction, installation or use of any components of the Airkit or Dustbox 2.0, or for the interpretation of data from the toolkit.
+If you are concerned about any changes in the equipment or have any questions about how to maintain it, please contact [info@citizensense.net](mailto:info@citizensense.net). Be sure to review our [Terms of Use](https://citizensense.net/about/terms/) for full guidance. Citizen Sense does not accept liability for the faulty construction, installation or use of any components of the Airkit or Dustbox 2.0, or for the interpretation of data from the toolkit.
     
 <p>
 <img src="./images_2/G5_MOT.jpeg" alt="View of an MOT centre at one of the Citizen Sense monitoring sites" title="View of the MOT Centre" width="600"> 
@@ -683,7 +683,7 @@ As outlined in previous sections, air pollution is associated with urgent planet
 
 ### 5.2. Airsift sign-up
 
-While you can view all Dustbox data on the platform without signing up, to add stories and observations to the site, you need to create an account. In your web browser navigate to the [Airsift](https://airsift.citizensense.net) site. In the top right of the site, you will notice a 'Sign In' button. Here you can sign in if you have an existing account or you can create a new Airsift account. When you create an account, you will need to provide an email address, select a username and display name that will be displayed publicly with your contributions. After selecting these options, please read the [terms and conditions](https://citizensense.net/about/terms/) and select a password.
+While you can view all Dustbox data on the platform without signing up, to add stories and observations to the site, you need to create an account. In your web browser navigate to the [Airsift](https://airsift.citizensense.net) site. In the top right of the site, you will notice a 'Sign In' button. Here you can sign in if you have an existing account or you can create a new Airsift account. When you create an account, you will need to provide an email address, select a username and display name that will be displayed publicly with your contributions. After selecting these options, please read the [Terms of Use](https://citizensense.net/about/terms/) and select a password.
 
 ### 5.3. Airsift map
 
@@ -740,7 +740,7 @@ To add a Data Story to Airsift, select 'Stories' in the navigation window and th
 
 #### 5.6.1. Writing Your Data Story 
 
-Writing a Data Story is a detailed and collaborative process that will likely require several iterations and revisions. The instructions below can act as a guideline to help you structure and complete a Data Story based on citizen data. You can see this structure in action by browsing published Data Stories(https://citizensense.net/data-stories-deptford/). It can be helpful to include images of your local area in the data story to illustrate the landscape, highlight visible pollution and activity, or demonstrate how and where sensors are installed.  
+Writing a Data Story is a detailed and collaborative process that will likely require several iterations and revisions. The instructions below can act as a guideline to help you structure and complete a Data Story based on citizen data. You can see this structure in action by browsing published [Data Stories](https://citizensense.net/data-stories-deptford/). It can be helpful to include images of your local area in the data story to illustrate the landscape, highlight visible pollution and activity, or demonstrate how and where sensors are installed.  
 
 ##### Summary
 At the start of the data story, it is useful to give a summary of the key findings and the data used in your Data Story. This section should be short at around 1–2 paragraphs.
@@ -844,7 +844,7 @@ Once you have finished writing your data story, you can publish it on the Airsif
 * You can upload images from your computer or copy and paste plots from Analysis. 
 * Follow the structure outlined in the text box to complete your data story.
 * Some instructions for producing your Data Story are given in the right-hand-side of this page.
-* You can view and read examples of published data stories at Deptford Data Stories(https://citizensense.net/data-stories-deptford/) and [AirKit Data Stories](datastories-airkit.citizensense.net/)
+* You can view and read examples of published data stories at [Deptford Data Stories](https://citizensense.net/data-stories-deptford/) and [AirKit Data Stories](datastories-airkit.citizensense.net/)
 
 <p>
  <img src="./images_2/G6_diesel_char.jpeg" alt="An illustration of a diesel char molecule" title="A diesel char molecule" width="600">
@@ -857,11 +857,11 @@ This logbook has discussed the process of establishing a citizen sensing study. 
 
 We are interested to hear about air quality campaigns and how you are using or planning to use the AirKit to collect and analyze data. We are also interested in receiving  feedback or comments you have related to the AirKit. If you would like further information on any aspect of AirKit, please contact us on [info@citizensense.net](mailto:info@citizensense.net).
 
-The Citizen Sense and AirKit projects are led by Professor Jennifer Gabrys. AirKit has been developed working in collaboration with [Dr Sachit Mahajan](https://research.sociology.cam.ac.uk/profile/dr-sachit-mahajan) and [Dr Joanne Armitage](https://research.sociology.cam.ac.uk/profile/dr-joanne-armitage). Thanks are due to our additional collaborators including:
+The Citizen Sense and AirKit projects are led by Professor Jennifer Gabrys. AirKit has been developed working in collaboration with [Dr Sachit Mahajan](https://planetarypraxis.org/people/sachit-mahajan) and [Dr Joanne Armitage](https://planetarypraxis.org/people/joanne-armitage). Thanks are due to our additional collaborators including:
 
-Common Knowledge (https://commonknowledge.coop/) contributed to the development of the Airsift platform. Lau Thiam Kok and Tassos Noulas contributed to the data architecture of the Airsift platform. 
+[Common Knowledge](https://commonknowledge.coop/) contributed to the development of the Airsift platform. Lau Thiam Kok and Tassos Noulas contributed to the data architecture of the Airsift platform. 
 
-The Citizen Sense Dustbox 2.0 included collaborative contributions to the materials design and 3D printing by Andrea Rinaldi, who built on an earlier Citizen Sense Dustbox 1.0 designs developed in collaboration with Francesca Perona and Helen Pritchard.
+The Citizen Sense Dustbox 2.0 included collaborative contributions to the materials design and 3D printing by Andrea Rinaldi, who built on an earlier Citizen Sense Dustbox 1.0 designs developed in collaboration with [Francesca Perona](http://www.francescaperona.com/) and [Helen Pritchard](https://citizensense.net/about/people/helen-pritchard/).
 
 Special thanks are due to the participants and residents in the Forest Hill area of London who contributed to the development and testing of AirKit and the Dustbox 2.0, as well as to the collection and analysis of data and communication of results to wider publics and regulators. For more information on project contributors, see Citizen Sense [People](http://citizensense.net/about/people/).
 
@@ -1179,11 +1179,11 @@ http://ec.europa.eu/environment/air/quality/standards.htm
 
 * Eilenberg, S. Rose, R. Subramanian, Carl Malings, Aliaksei Hauryliuk, Albert A. Presto, and Allen L. Robinson. "Using a network of lower-cost monitors to identify the influence of modifiable factors driving spatial patterns in fine particulate matter concentrations in an urban environment." Journal of Exposure Science & Environmental Epidemiology (2020): 1-13.
 
-* Gabrys, Jennifer. How to Do Things with Sensors(https://manifold.umn.edu/projects/how-to-do-things-with-sensors). University of Minnesota Press, 2019.
+* Gabrys, Jennifer. [How to Do Things with Sensors](https://manifold.umn.edu/projects/how-to-do-things-with-sensors). University of Minnesota Press, 2019.
 
-* Gabrys, Jennifer, Helen Pritchard, and Benjamin Barratt. "Just good enough data: Figuring data citizenships through air pollution sensing and data stories(https://journals.sagepub.com/doi/full/10.1177/2053951716679677)." Big Data & Society 3, no. 2 (2016): 2053951716679677.
+* Gabrys, Jennifer, Helen Pritchard, and Benjamin Barratt. "[Just good enough data: Figuring data citizenships through air pollution sensing and data stories](https://journals.sagepub.com/doi/full/10.1177/2053951716679677)." Big Data & Society 3, no. 2 (2016): 2053951716679677.
 
-* Gabrys, Jennifer. "Planetary health in practice: sensing air pollution and transforming urban environments(https://www.nature.com/articles/s41599-020-00534-7)." Humanities and Social Sciences Communications 7, no. 1 (2020): 1-11.
+* Gabrys, Jennifer. "[Planetary health in practice: sensing air pollution and transforming urban environments](https://www.nature.com/articles/s41599-020-00534-7)." Humanities and Social Sciences Communications 7, no. 1 (2020): 1-11.
 
 * Mahajan, Sachit, and Prashant Kumar. "Evaluation of low-cost sensors for quantitative personal exposure monitoring." Sustainable Cities and Society (2020): 102076.
 
