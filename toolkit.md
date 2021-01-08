@@ -113,7 +113,7 @@ The next stage is to organise a workshop and walk together around the local area
 
 A carefully considered plan for setting up your monitoring network can allow you to answer your questions about air quality more effectively, while developing stronger arguments from your findings. It can also ensure that you have adequate resources for your monitoring activity and to anticipate and identify possible problems and issues. We suggest that you document the process of setting up your monitoring network through photographs, video and shared notes, which you can also add to the [Airsift](https://airsift.citizensense.net/) platform. This material will provide a key resource for analyzing and narrating your air quality data.  
    
-Additional air quality resources that could help you set up your citizen sensing study are included in [Appendix 3](https://github.com/citizensense/Airkit/blob/master/toolkit.md#appendix-3-additional-resources). 
+Additional air quality resources that could help you set up your citizen sensing study are included in [Appendix 3](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#appendix-3-additional-resources). 
 
 ### 2.4. How to analyze and communicate air quality data
 
@@ -124,9 +124,9 @@ Analyzing your data is a key part of an air quality study. This allows you to in
  <br><sup>Screenshot of the Airsift platform</sup>
 </p>
 
-While working with low-cost and DIY sensors, it is important to make sure that the data that is collected is of highest quality and can be used for the intended purpose. For this, Quality Assurance (QA) and Quality Control (QC) activities are recommended to harmonise air quality data ([Piedrahita, Ricardo, et al., 2014](https://amt.copernicus.org/articles/7/3325/2014/)). QA can be considered as an integrated management system to ensure that the device setup and the data quality meet the defined standards with a high level of confidence. QC activities include activities like device [calibration](https://github.com/citizensense/Airkit/blob/master/toolkit.md#41-calibrating-your-dustbox-20). QC can be done in the field as well as through laboratory co-location of sensors with industry grade instruments. Such activities are important to limit the errors in the measurements. 
+While working with low-cost and DIY sensors, it is important to make sure that the data that is collected is of highest quality and can be used for the intended purpose. For this, Quality Assurance (QA) and Quality Control (QC) activities are recommended to harmonise air quality data ([Piedrahita, Ricardo, et al., 2014](https://amt.copernicus.org/articles/7/3325/2014/)). QA can be considered as an integrated management system to ensure that the device setup and the data quality meet the defined standards with a high level of confidence. QC activities include activities like device [calibration](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#41-calibrating-your-dustbox-20). QC can be done in the field as well as through laboratory co-location of sensors with industry grade instruments. Such activities are important to limit the errors in the measurements. 
 
-When documenting your sensor setup, it is important to describe your approach to data collection, measurements and interpretation methods so that the process is clear to others who review your data. There is more information about how to ensure the quality of your data by co-locating and calibrating your sensors available below in [Section 3](https://github.com/citizensense/Airkit/blob/master/toolkit.md#3-building-a-dustbox-20), and on page [XXX] [**add**] of the print and PDF version of this AirKit logbook.
+When documenting your sensor setup, it is important to describe your approach to data collection, measurements and interpretation methods so that the process is clear to others who review your data. There is more information about how to ensure the quality of your data by co-locating and calibrating your sensors available below in [Section 3](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#3-building-a-dustbox-20), and on page [XXX] [**add**] of the print and PDF version of this AirKit logbook.
 
 <p>
  <img src="./images/2.6_exploded_dustbox.jpg" alt="Exploded image of the insides of a Dustbox sensor showing how different parts fit inside the enclosure" title="Exploded image of a Dustbox 2.0" width="600"><br><sup>Dusbox 2.0 exploded to show the parts inside</sup>
@@ -258,7 +258,7 @@ Breakout boards are PCBs that have been designed by companies to make electronic
 
 * The header pins are soldered to the pin holes in each PCB. Whilst most components come with their own header pins sometimes you may need to cut a few pins off. Make the cuts slowly and steadily as they can ping off.
 * The best way to solder header pins to the PCB is using a breadboard. Place the cut-to-length header pins in a breadboard so the short ends poke through the top then place the PCB over top. It is important to make sure that the PCB is flat and that the header pins are perpendicular to the PCB. You can tuck heat-resistant items under the PCB to make it level, or just apply some extra pressure with your iron.
-* You are now ready to solder the PCB. For further instructions on this step, see the soldering guide above in [Section 3.2](https://github.com/citizensense/Airkit/blob/master/toolkit.md#32-assembling-the-electronics) (also on **page XX** of the print or PDF Logbook [**add**]).
+* You are now ready to solder the PCB. For further instructions on this step, see the soldering guide above in [Section 3.2](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#32-assembling-the-electronics) (also on **page XX** of the print or PDF Logbook [**add**]).
 
 #### Soldering components to the Dustbox 2.0 PCB
 
@@ -435,7 +435,7 @@ In the Arduino IDE press the upload button which is the arrow pointing right at 
 
 If you have built your own Dustbox you will need to contact the Citizen Sense team [info@citizensense.net](mailto:info@citizensense.net) who will create a new stream for you to pipe data to. This process will also generate a unique public and private key for your device that will allow it to communicate with our server. We will send you the code that you need to upload to the device which will be based on this template [**link to code**].
 
-To upload the code to the ESP8266 you will need to place it in bootload mode and following the instructions above with the new file. To test that your Dustbox 2.0 is working and piping data, see the instructions for connecting it to your local Wi-Fi in [Section 4.4](https://github.com/citizensense/Airkit/blob/master/toolkit.md#44-connecting-your-dustbox-20-to-a-wi-fi-network) below and on page [**XXX**] of the print or PDF AirKit Logbook.
+To upload the code to the ESP8266 you will need to place it in bootload mode and following the instructions above with the new file. To test that your Dustbox 2.0 is working and piping data, see the instructions for connecting it to your local Wi-Fi in [Section 4.4](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#44-connecting-your-dustbox-20-to-a-wi-fi-network) below and on page [**XXX**] of the print or PDF AirKit Logbook.
 
 #### Firmware
 
@@ -544,7 +544,7 @@ To calibrate the Dustbox 2.0, we undertook outdoor co-location with the TSI AM52
  <br><sup>Configuring the Sidepak reference monitor</sup>
  </p>
 
-Where you perform the co-location is important. When possible, try and choose a location where pollution levels are likely to change throughout the day such as nearby a traffic intersection (with peak and non-peak hours). These variations can provide an ideal place to sense and test variations in air quality. The Dustboxes and TSI AM520 should be placed near to each other and in a screen that is around 1.0 m to 1.5 m high. A Stevenson screen could come in handy here, if you need a free-standing structure for locating your Dustbox 2.0. See [Appendix 2](https://github.com/citizensense/Airkit/blob/master/toolkit.md#appendix-2-building-a-stevenson-screen) for instructions for how to make your own screen. 
+Where you perform the co-location is important. When possible, try and choose a location where pollution levels are likely to change throughout the day such as nearby a traffic intersection (with peak and non-peak hours). These variations can provide an ideal place to sense and test variations in air quality. The Dustboxes and TSI AM520 should be placed near to each other and in a screen that is around 1.0 m to 1.5 m high. A Stevenson screen could come in handy here, if you need a free-standing structure for locating your Dustbox 2.0. See [Appendix 2](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#appendix-2-building-a-stevenson-screen) for instructions for how to make your own screen. 
 <p>    
 <img src="./images/4.3_sachit_carrying_stevenson_crossing.JPG" alt="Researcher waiting at a pedestrian crossing to take a Stevenson screen across the road" title="Transporting Stevenson screens for calibration" width="600">   
  <br><sup>Transporting Stevenson screens for calibration</sup>
@@ -595,7 +595,7 @@ Where you place the Dustbox in your environment depends on what you are trying t
 * Select a location that is outdoors but reasonably sheltered and out of the rain, wind and elements. Before winds or rain occur, ensure the equipment is secure in the event of extreme weather activity.
 * The Dustbox should preferably be located outside and within reach of your Wi-Fi network and a power socket. The closer the Dustbox is to the Wi-Fi router the better the connection will be.
 * The power socket will need to be switched on at all times to ensure that the Dustbox is constantly monitoring. 
-* The enclosure is designed to fit a Pexon USB cable (detailed in [Building a Dustbox 2.0](https://github.com/citizensense/Airkit/blob/master/toolkit.md#3-building-a-dustbox-20) or **page XX** [**add**]) of the print or PDF AirKit Logbook. This cable is 5-feet long. You can use a different USB cable but it might not fit snug in the enclosure. If you require a longer cable, you will need to use an extension cable and dry box, for example: [Masterplug Weatherproof Box with Extension Lead](https://www.homebase.co.uk/masterplug-weatherproof-box-with-4-socket-extension-lead-8m-black_p395422). Ensure that the power cable is secured with cable clips or tape so that it is not a trip hazard.
+* The enclosure is designed to fit a Pexon USB cable (detailed in [Building a Dustbox 2.0](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#3-building-a-dustbox-20) or **page XX** [**add**]) of the print or PDF AirKit Logbook. This cable is 5-feet long. You can use a different USB cable but it might not fit snug in the enclosure. If you require a longer cable, you will need to use an extension cable and dry box, for example: [Masterplug Weatherproof Box with Extension Lead](https://www.homebase.co.uk/masterplug-weatherproof-box-with-4-socket-extension-lead-8m-black_p395422). Ensure that the power cable is secured with cable clips or tape so that it is not a trip hazard.
 * Ensure that airflow is able to reach the sensor by locating it away from obstructions. Place the device away from the ground and building surfaces by approximately 1 meter distance in all directions.
 * Avoid installing the Dustbox 2.0 in areas that are difficult to access or that present health and safety hazards, and choose a location that is free from slip or trip hazards.
 * Do not place the Dustbox 2.0 at a height or in a location where it could fall and injure passers-by.
@@ -641,11 +641,11 @@ The first time you turn on your Dustbox 2.0 you will need to connect it to a Wi-
 </p>
 
 14. You can analyze your data in our DIY data analysis tool, [Airsift](https://airsift.citizensense.net/). This tool allows you to select the date range, data mean (e.g., hourly data), and to compare your data to other monitoring sites, including LAQN sites. You can also download your data as image files (.png) or data files (.csv) from the Airsift tool.
-15. For an example of how plots and graphs from the Airsift tool can be put together into ‘Data Stories’, see our [Deptford Data Stories](https://citizensense.net/data-stories-deptford/). Find more details and instructions for creating your own data story in [Section 5.6](https://github.com/citizensense/Airkit/blob/master/toolkit.md#56-airsift-data-stories).
+15. For an example of how plots and graphs from the Airsift tool can be put together into ‘Data Stories’, see our [Deptford Data Stories](https://citizensense.net/data-stories-deptford/). Find more details and instructions for creating your own data story in [Section 5.6](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#56-airsift-data-stories).
 
 Note: In case the Dustbox does not respond or the LED doesn't switch off, just press the reset button once and wait for it to reconnect. Once reconnected the LED will stop flashing.
 
-If you are having problems connecting to your Wi-Fi network, please see [Appendix 1](https://github.com/citizensense/Airkit/blob/master/toolkit.md#connecting-the-dustbox-20-to-wifi) for Troubleshooting and FAQs.
+If you are having problems connecting to your Wi-Fi network, please see [Appendix 1](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#connecting-the-dustbox-20-to-wifi) for Troubleshooting and FAQs.
 
 ###  4.5. Safety and care
 
@@ -898,7 +898,7 @@ When you connect to the dustboxXXXX Access Point you should be re-directed to a 
 * Try a different device: this issue can appear less frequently with laptops or desktop computers.
 
 4. What if I change my Wi-Fi network?
-If you change your Wi-Fi network, you need to switch off the Dustbox 2.0 and follow the connecting instructions in [Section 3](https://github.com/citizensense/Airkit/blob/master/toolkit.md#3-building-a-dustbox-20) to set up your new Wi-Fi details.
+If you change your Wi-Fi network, you need to switch off the Dustbox 2.0 and follow the connecting instructions in [Section 3](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#3-building-a-dustbox-20) to set up your new Wi-Fi details.
 
 5. What if power is lost?
 If your device loses power if will no longer collect and send data. You will need to reconnect to a power source, when switched off the device should automatically reconnect to the Wi-Fi network.
@@ -906,7 +906,7 @@ If your device loses power if will no longer collect and send data. You will nee
 ### Using the Dustbox 2.0
 
 1. How do I get hold of a Dustbox 2.0?<br>
-You can borrow a Dustbox 2.0 from Citizen Sense by contacting [info@citizensense.net](mailto:info@citizensense.net). It is also possible to build your own Dustbox 2.0 following the instructions outlined in [Section 3](https://github.com/citizensense/Airkit/blob/master/toolkit.md#3-building-a-dustbox-20) of this toolkit. 
+You can borrow a Dustbox 2.0 from Citizen Sense by contacting [info@citizensense.net](mailto:info@citizensense.net). It is also possible to build your own Dustbox 2.0 following the instructions outlined in [Section 3](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#3-building-a-dustbox-20) of this toolkit. 
 
 2. What if I want to change the design? <br>
 Dustbox 2.0 is an open-source device so you can modify the existing circuit design, code and enclosure to customize it. We are keen to hear about any edits you make to the design so please get in touch.
