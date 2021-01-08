@@ -4,15 +4,17 @@
 
 
 ## Table of Contents
-1. [AirKit Introduction](https://github.com/citizensense/Airkit/blob/master/toolkit.md#1-airkit-introduction)
-2. [Air Quality Monitoring](https://github.com/citizensense/Airkit/blob/master/toolkit.md#2-air-quality-monitoring)
-3. [Building a Dustbox 2.0](https://github.com/citizensense/Airkit/blob/master/toolkit.md#3-building-a-dustbox-20)
-4. [Setting up Your Dustbox in the Field](https://github.com/citizensense/Airkit/blob/master/toolkit.md#4-setting-up-your-dustbox-in-the-field)
-5. [Data Analysis and Data Stories](https://github.com/citizensense/Airkit/blob/master/toolkit.md#5-data-analysis-and-data-stories)
-6. [Summary and Acknowledgments](https://github.com/citizensense/Airkit/blob/master/toolkit.md#6-summary-and-acknowledgments)
-7. [Appendix 1](https://github.com/citizensense/Airkit/blob/master/toolkit.md#appendix-1-troubleshooting-and-faq): Troubleshooting and FAQs
-8. [Appendix 2](https://github.com/citizensense/Airkit/blob/master/toolkit.md#appendix-2-building-a-stevenson-screen): Building a Stevenson Screen
-9. [Appendix 3](https://github.com/citizensense/Airkit/blob/master/toolkit.md#appendix-3-additional-resources): Additional Resources 
+1. [AirKit Introduction](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#1-airkit-introduction)
+2. [Air Quality Monitoring](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#2-air-quality-monitoring)
+3. [Building a Dustbox 2.0](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#3-building-a-dustbox-20)
+4. [Setting up Your Dustbox in the Field](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#4-setting-up-your-dustbox-in-the-field)
+5. [Data Analysis and Data Stories](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#5-data-analysis-and-data-stories)
+6. [Summary and Acknowledgments](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#6-summary-and-acknowledgments)
+7. [Appendix 1](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#appendix-1-troubleshooting-and-faq): Troubleshooting and FAQs
+8. [Appendix 2](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#appendix-2-building-a-stevenson-screen): Building a Stevenson Screen
+9. [Appendix 3](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#appendix-3-additional-resources): Additional Resources 
+
+
 
 
 ## 1. AirKit Introduction
