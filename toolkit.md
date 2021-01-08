@@ -404,8 +404,6 @@ You should now be able to view and select **Adafruit Feather Huzzah ESP8266** fr
 
 Some libraries need to be added to the Arduino to run the code. To add a library to Arduino navigate to Sketch > Include Library > Manage Libraries... Search for and install the following libraries:
 * **WiFiManager** by tzapu Version 0.14.0
-* **DHT sensor** library by Adafruit Version 1.3.7 (you may need to install dependent libraries as well)
-* **ThingSpeak** by MathWorks Version 1.5.0
 * **PMS Library** by Mariusz Kacki 1.1.0
 * **FastLED** by Daniel Garcia Version 3.2.1 
 * **SHT31 Library** by Adafruit Version 1.1.2
