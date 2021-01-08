@@ -1,6 +1,6 @@
 # AirKit
 
-<img src="./images_2/G1_leading_image_dustbox.jpeg" width="600"> 
+<img src="./images/0_leading_image_dustbox.jpeg" width="600"> 
 
 
 ## Table of Contents
@@ -25,7 +25,7 @@ This AirKit Logbook includes resources for learning more about air quality and a
 
 AirKit is developed through the [Citizen Sense](https://citizensense.net) project, which is led by Prof Jennifer Gabrys as part of the [Planetary Praxis](https://planetarypraxis.org/) research group in the Department of Sociology at the University of Cambridge. This research has received funding from the European Research Council (ERC) to support [Citizen Sense](https://citizensense.net) through an ERC Starting Grant [313347](https://cordis.europa.eu/project/id/313347), and to support AirKit through an ERC Proof of Concept Grant [779921](https://cordis.europa.eu/project/id/779921). We welcome your comments and feedback to improve the toolkit. If you would like to get in touch, you can contact us at [info@citizensense.net](mailto:info@citizensense.net). AirKit is available to use under a [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. You are free to use, adapt, and share this toolkit for non-commercial purposes under the same CC BY-NC-SA license, and with attribution to Citizen Sense. 
  
-<p><img src="./images_2/IMG1_walk_clean_air_for_dalmain_with_a_plane!.JPG" alt = "A plane flies above the green screen at Dalmain Primary School" title= "A plane flies above the green screen at Dalmain Primary School" width="600"><br><sup>A plane flies above the green screen at Dalmain Primary School</sup></p>
+<p><img src="./images/1_walk_clean_air_for_dalmain_with_a_plane!.JPG" alt = "A plane flies above the green screen at Dalmain Primary School" title= "A plane flies above the green screen at Dalmain Primary School" width="600"><br><sup>A plane flies above the green screen at Dalmain Primary School</sup></p>
 
 ## 2. Air Quality Monitoring
 
@@ -35,7 +35,7 @@ At the same time, there has been a marked increase in the availability and accur
 
 While sensor devices offer new opportunities for citizens to monitor air quality, community engagement is key to setting up air quality monitoring networks. Citizen contributions to monitoring networks include local expertise and observations, existing and emerging community organisations, as well as infrastructural resources such as power, a network connection and space to install monitors. This section outlines in more detail the extent to which air pollution is a planetary health concern and why monitoring air quality is important. It then offers some strategies for developing your own air quality study. 
 
-<p><img src="./images_2/G2_particles1.jpeg" alt="Illustration of different particles that comprise particulate matter" title="Illustration of different particles that comprise particulate matter" width="600"><br><sup>Particles that comprise particulate matter</sup></p>
+<p><img src="./images/2.1_particles1.jpeg" alt="Illustration of different particles that comprise particulate matter" title="Illustration of different particles that comprise particulate matter" width="600"><br><sup>Particles that comprise particulate matter</sup></p>
 
 
 ### 2.1. The problem of air quality worldwide 
@@ -84,8 +84,8 @@ Examples of questions:
 * Has the landscape in the local area changed recently?
 
 <p>
-<img src="./images_2/IMG2_walk_bp_petrol_station.JPG" alt="View of a petrol station on the South Circular, London" title="View of a petrol station on the South Circular, London" width="600"> 
-<img src="./images_2/IMG3_walk_forest_hill_busy_junction_2.JPG" alt="View of a junction on the South Circular, London" title="View of a junction on the South Circular, London" width="600"> 
+<img src="./images/2.2_walk_bp_petrol_station.JPG" alt="View of a petrol station on the South Circular, London" title="View of a petrol station on the South Circular, London" width="600"> 
+<img src="./images/2.3_walk_forest_hill_busy_junction_2.JPG" alt="View of a junction on the South Circular, London" title="View of a junction on the South Circular, London" width="600"> 
  <br><sup>Views along the South Circular, London</sup>
  </p>
 
@@ -98,7 +98,7 @@ Your air quality monitoring project might form out of groups of people with a co
 While Dustbox 2.0 and [Airsift](https://airsift.citizensense.net/) provide data on particulate matter, temperature, humidity and wind, you may also want to collect other types of data through making regular observations about noise, smell or other environmental events; mapping; and looking at local development activity. It is important to consider what other kinds of data you can use to tell the story of your local air quality, as well as what data might not capture. You might also notice that there are other monitors in your area, including those maintained by the local council or other citizen devices. You should consider how the placement of your monitors and plans for analyzing data relate to datasets from regulatory monitors. You might find opportunities for funding your monitoring exercise from local government or community organisations.
 
 <p>
-<img src="./images_2/G4_street.jpeg" alt="View of a street lined with houses and large numbers of cars travelling in each direction" title="Traffic in a residential area" width="600"> 
+<img src="./images/2.4_street.jpeg" alt="View of a street lined with houses and large numbers of cars travelling in each direction" title="Traffic in a residential area" width="600"> 
  <br><sup>Traffic in a residential area</sup>
  </p>
 
@@ -118,7 +118,7 @@ Additional air quality resources that could help you set up your citizen sensing
 Analyzing your data is a key part of an air quality study. This allows you to interpret and communicate the findings from your data. Common methods for analyzing air pollution data include using visualizations such as time-series graphs to analyse pollutant concentrations over different time periods (hourly, daily, monthly, seasonal); polar plots of PM concentrations with wind direction and wind speed to identify emissions sources and understand patterns; and scatter plots of PM concentration and temperature and humidity to see how weather conditions are impacting your local air quality.
 
 <p>
- <img src="./images_2/Airsift.png" alt="Screenshot of the Airsift platform showing the interface and a line graph or particulate matter concentrations" title="Screenshot of the Airsift platform" width="700">
+ <img src="./images/2.5_airsift_analysis_page.png" alt="Screenshot of the Airsift platform showing the interface and a line graph or particulate matter concentrations" title="Screenshot of the Airsift platform" width="700">
  <br><sup>Screenshot of the Airsift platform</sup>
 </p>
 
@@ -127,7 +127,7 @@ While working with low-cost and DIY sensors, it is important to make sure that t
 When documenting your sensor setup, it is important to describe your approach to data collection, measurements and interpretation methods so that the process is clear to others who review your data. There is more information about how to ensure the quality of your data by co-locating and calibrating your sensors available below in [Section 3](https://github.com/citizensense/Airkit/blob/master/toolkit.md#3-building-a-dustbox-20), and on page [XXX] [**add**] of the print and PDF version of this AirKit logbook.
 
 <p>
- <img src="./images_2/G3_exploded_dustbox.jpeg" alt="Exploded image of the insides of a Dustbox sensor showing how different parts fit inside the enclosure" title="Exploded image of a Dustbox 2.0" width="600"><br><sup>Dusbox 2.0 exploded to show the parts inside</sup>
+ <img src="./images/2.6_exploded_dustbox.jpeg" alt="Exploded image of the insides of a Dustbox sensor showing how different parts fit inside the enclosure" title="Exploded image of a Dustbox 2.0" width="600"><br><sup>Dusbox 2.0 exploded to show the parts inside</sup>
 </p>
 
 
@@ -142,7 +142,7 @@ Every 60 seconds, the Dustbox 2.0 monitor measures 3 different environmental var
 You can build your own Dustbox 2.0 following the instructions below. It is also possible to borrow a Dustbox 2.0 by emailing [info@citizensense.net](mailto:info@citizensense.net).
 
 <p>
- <img src="./images_2/IMG5_horniman_sensor_focus_soft_background.JPG" alt="A pollen Dustbox 2.0 held up by a hand overlooking London from the Horniman museum" title="Installing a Dustbox at the Horniman Museum and Gardens" width="600"><br><sup>Installing a Dustbox at the Horniman Museum and Gardens</sup>
+ <img src="./images/3.1_horniman_sensor_focus_soft_background.JPG" alt="A pollen Dustbox 2.0 held up by a hand overlooking London from the Horniman museum" title="Installing a Dustbox at the Horniman Museum and Gardens" width="600"><br><sup>Installing a Dustbox at the Horniman Museum and Gardens</sup>
 </p>
 
 To build the Dustbox 2.0 you will need to follow four steps:
@@ -156,15 +156,15 @@ To build the Dustbox 2.0 you will need to follow four steps:
 4) **Assembling the Dustbox 2.0:** Once these steps are completed, you are ready to assemble the complete monitor, which involves placing electronic parts inside the enclosure.
 
 <p>
-<img src="./images_2/IMG6_programming_joanne_looking_at_screen.JPG" alt="A researcher looks at her screen in an office with lots of electronic equipment around" title = "Researchers programming" width="600">
-<img src="./images_2/IMG7_programming_sachit_at_messy_desk_programming_devices_calibration_inst_visible.JPG" alt = "A researchers works at his desk calibrating a sensor. There are Dustbox 2.0 sensors all over the desk" title = "A researchers setting up a calibration device" width="600">
+<img src="./images/3.2_programming_joanne_looking_at_screen.JPG" alt="A researcher looks at her screen in an office with lots of electronic equipment around" title = "Researchers programming" width="600">
+<img src="./images_2/3.3_programming_sachit_at_messy_desk_programming_devices_calibration_inst_visible.JPG" alt = "A researchers works at his desk calibrating a sensor. There are Dustbox 2.0 sensors all over the desk" title = "A researchers setting up a calibration device" width="600">
  <br><sup>Researchers working in the Citizen Sense lab</sup>
 </p>
 
 ### 3.1 Gathering parts and tools
 The components required to build the Dustbox 2.0 sensor are listed below and include resistors, sensors, an LED, an ESP8266 Wi-Fi board, and the Dustbox 2.0 printed circuit board (PCB). A full list of the parts and tools required to build the Dustbox 2.0 are provided below. Before you start to build the sensor it is important to have all the components available for assembly. When you are ready to begin building your Dustbox 2.0, your work station might look a bit like this:
 
- <p><img src="./images_2/IMG8_rev2_parts_box_layout.jpeg" alt="An overhead view of a tray containing sensors, resistors and other electronics parts" title="Dustbox parts organised" width="600"><br>
+ <p><img src="./images/3.4_rev2_parts_box_layout.jpeg" alt="An overhead view of a tray containing sensors, resistors and other electronics parts" title="Dustbox parts organised" width="600"><br>
  <sup>All the parts used in the Dustbox 2.0</sup></p>
 
 #### Electronic parts:
@@ -214,7 +214,7 @@ The Dustbox 2.0 PCB allows all electronics to be securely connected and attached
 * Breadboard
 * Hairdryer or heat gun (if using heat shrink)
 
-<p><img src="./images_2/IMG9_assembly_messy_soldering_desk_view.JPG" alt="A view of the desk used for soldering in the Citizen Sense lab showing part assembled Dustboxes, extractor fan, solder, light and heatproof mat" title="Dustbox 2.0 soldering desk" width="600"><br>
+<p><img src="./images/3.5_assembly_messy_soldering_desk_view.JPG" alt="A view of the desk used for soldering in the Citizen Sense lab showing part assembled Dustboxes, extractor fan, solder, light and heatproof mat" title="Dustbox 2.0 soldering desk" width="600"><br>
  <sup>A view of the soldering desk in the Citizen Sense lab</sup></p>
  
 #### 3.2. Assembling the electronics
@@ -241,7 +241,7 @@ There are two phases of soldering (1) soldering headers pins to the breakout boa
 * This is a basic overview of soldering. You will find some more detailed instructions below for each electronic component.
 * If you have not soldered before, try and make a couple of test joints to get a feel for the process.
 
-<p><img src="./images_2/IMG10_assembly_parts_laid_out_pre-soldering_top.JPG" alt="A view of some of the parts used to make one Dustbox including a Plantower PM sensor, Sensirion SHT31-D, PCB, Adafruit Huzzah ESP8266 Breakout, resistors, connectors and header pins" title="Dustbox 2.0 parts laid out" width="600">
+<p><img src="./images/3.6_assembly_parts_laid_out_pre-soldering_top.JPG" alt="A view of some of the parts used to make one Dustbox including a Plantower PM sensor, Sensirion SHT31-D, PCB, Adafruit Huzzah ESP8266 Breakout, resistors, connectors and header pins" title="Dustbox 2.0 parts laid out" width="600">
  <br><sup>The Dustbox 2.0 parts laid out</sup>
  </p>
 
@@ -250,7 +250,7 @@ There are two phases of soldering (1) soldering headers pins to the breakout boa
 Breakout boards are PCBs that have been designed by companies to make electronics components easier to prototype with. A lot of modern electronics parts are very small and need to be soldered to the surface of PCBs. This can be a messy process if you don't have the correct equipment. A number of companies produce breakout boards for these components allowing hobbyists to use them at home. Breakout boards often require a small amount of assembly and normally arrive as a small PCB with holes in it and some header pins (or a strip of pins that fit through these holes). There are 3 breakout boards that we need to solder header pins for: Adafruit Huzzah ESP8266 Breakout (ESP8266), Sensirion SHT31-D (SHT31-D), and Adafruit USB Micro-B Breakout Board (USB Micro-B). You will need to attach the header pins to these boards. Header pins connect with sockets and allow us to securely connect different electronic components together. The advantage of using headers and sockets is that we can remove, re-use or replace components them without additional soldering.
 
 <p>
-<img src="./images_2/IMG11_assembly_soldering_breakouts.JPG" alt="A researcher holds a small breadboard containing the Adafruit Huzzah ESP8266 Breakout to pin headers in one hand as she prepares to solder" title="Connecting the Adafruit Huzzah ESP8266 Breakout to pin headers" width="600">
+<img src="./images/3.7_assembly_soldering_breakouts.JPG" alt="A researcher holds a small breadboard containing the Adafruit Huzzah ESP8266 Breakout to pin headers in one hand as she prepares to solder" title="Connecting the Adafruit Huzzah ESP8266 Breakout to pin headers" width="600">
  <br><sup>Connecting the Adafruit Huzzah ESP8266 Breakout to pin headers</sup>
  </p>
 
@@ -263,30 +263,30 @@ Breakout boards are PCBs that have been designed by companies to make electronic
 Once the breakouts are fully assembled you are ready to solder parts to the Dustbox 2.0 PCB. The PCB has two sides you can tell them apart as the top side has some text on it. We will solder all components to the top side of the board. It is best to solder low-profile components like resistors first, this can be done in stages grouping similar height parts together.
 
 <p>
-<img src="./images_2/IMG12_assembly_joanne_soldering_scokets.JPG" alt="A researcher holds a soldering iron in her hand as she solders parts to the Dustbox 2.0 PCB" title="Connecting parts to the Dustbox 2.0 PCB" width="600">
+<img src="./images/3.8_assembly_joanne_soldering_scokets.JPG" alt="A researcher holds a soldering iron in her hand as she solders parts to the Dustbox 2.0 PCB" title="Connecting parts to the Dustbox 2.0 PCB" width="600">
  <br><sup>Connecting parts to the Dustbox 2.0 PCB</sup>
 </p>
 
 * Pop the 10 Ω (R1) through hole resistor into the PCB. You will need to bend the resistor wire to a right angle. You can use a pair of pliers to get a tidy bend. You may need to use the pliers to pull the resistor through the hole so that it sits flat on the PCB surface. You can secure the resistor in place using some electrical tape, flip the board over and solder.
 
 <p>
-<img src="./images_2/IMG13_rev2_low_profile_parts_first.jpeg" alt="A Dustbox 2.0 is held up to show the resistor and PicoBlade connector soldered on" title="Attach the resistor and Molex PicoBlade connector first" width="600">
-<img src="./images_2/IMG14_assembly_pop_resistor_through.JPG" alt="A resistors legs are bent to be pulled through a hole in the Dustbox 2.0 PCB" title="Bend the resistor legs and poke through the PCB" width="600">
+<img src="./images/3.9_rev2_low_profile_parts_first.jpeg" alt="A Dustbox 2.0 is held up to show the resistor and PicoBlade connector soldered on" title="Attach the resistor and Molex PicoBlade connector first" width="600">
+<img src="./images/3.10_assembly_pop_resistor_through.JPG" alt="A resistors legs are bent to be pulled through a hole in the Dustbox 2.0 PCB" title="Bend the resistor legs and poke through the PCB" width="600">
  <br> <sup>Solder the low-profile components to the Dustbox 2.0 PCB first</sup>
  </p>
 
 * Place the Molex PicoBlade 53048 in the PMS5003 slot. Make sure that the connector pins are facing the outside of the board. Solder this component carefully as the spaces between pins are small and if you use too much solder, pins can join together.
 
 <p>
-<img src="./images_2/IMG15_assembly_pico_connector.JPG" alt="A hand placing the Molex PicoBlade connector in the Dustbox 2.0 PCB" title = "Insert the Molex PicoBlade connector" width="600">
+<img src="./images/3.11_assembly_pico_connector.JPG" alt="A hand placing the Molex PicoBlade connector in the Dustbox 2.0 PCB" title = "Insert the Molex PicoBlade connector" width="600">
  <br><sup>Insert the Molex PicoBlade connector in to the PCB slot</sup>
 </p>
 
 * Next solder the header sockets that breakout boards (ESP8266, SHT31 and USB port) will be attached to. Solder them two at a time to balance the board flat on your work surface. It is important to keep the sockets perpendicular to the board. 
 
 <p>
-<img src="./images_2/IMG16_rev2_esp_socket_headers.jpeg" width="600" alt="The PCB with header sockets attached for the breakout boards" title = "Attached header sockets 1">
-<img src="./images_2/IMG17_assembling_first_board_some_sockets_missing.JPG" alt="The PCB with header sockets attached for the breakout boards" title = "Attached header sockets 2" width="600">
+<img src="./images/3.12_rev2_esp_socket_headers.jpeg" width="600" alt="The PCB with header sockets attached for the breakout boards" title = "Attached header sockets 1">
+<img src="./images/3.13_assembling_first_board_some_sockets_missing.JPG" alt="The PCB with header sockets attached for the breakout boards" title = "Attached header sockets 2" width="600">
  <br> <sup>Add the header sockets to the PCB ensuring they are perpendicular</sup>
 </p>
 
@@ -299,8 +299,7 @@ Once the breakouts are fully assembled you are ready to solder parts to the Dust
 * Once you have finished soldering, snip off legs of the resistor to just above the solder joint using the wire cutter. You do not need to snip the Molex PicoBlade 53048 or sockets.
 
 <p>
-[** NB IMG20_rev2_boards_soldered_no_breakouts_top_view.jpeg removed from here **]
-<img src="./images_2/IMG21_rev2_boards_soldered_no_breakouts.jpeg" alt="Six full-soldered Dustboxes on a desk with off-cuts or wire and tools in view" title="Fully soldered Dustboxes" width="600">
+<img src="./images/3.14_rev2_boards_soldered_no_breakouts.jpeg" alt="Six full-soldered Dustboxes on a desk with off-cuts or wire and tools in view" title="Fully soldered Dustboxes" width="600">
  <br> <sup>Dustbox 2.0 PCBs fully soldered.</sup>
  </p>
 
@@ -315,8 +314,8 @@ Once the breakouts are fully assembled you are ready to solder parts to the Dust
 * You are attaching wire to two of the three legs on the button (1) the long leg and (2) the leg with a '+' sign by it. 
 
 <p>
- <img src="./images_2/IMG19_rev2_lots_of_buttons.jpeg" alt="Lots of buttons with jumper wires attached on a desk" title="Buttons for multiple Dustboxes" width="600">
-<img src="./images_2/IMG18_rev2_loop_wire_round_button.jpeg" alt="Image showing the jumper wire looped around the button pins and socket at the other end" title = "Loop the jumper wire around the button hooks" width="600">
+ <img src="./images/3.15_rev2_lots_of_buttons.jpeg" alt="Lots of buttons with jumper wires attached on a desk" title="Buttons for multiple Dustboxes" width="600">
+<img src="./images/3.16_rev2_loop_wire_round_button.jpeg" alt="Image showing the jumper wire looped around the button pins and socket at the other end" title = "Loop the jumper wire around the button hooks" width="600">
  <br> <sup>Loop the jumper wire around the button hooks</sup> 
 </p>
 
@@ -327,19 +326,19 @@ Once the breakouts are fully assembled you are ready to solder parts to the Dust
 * If the connections are bulky you may want to use some electrical tape or a small piece of heat shrink to ensure they don't touch.
 
 <p>
- <img src="./images_2/IMG22_rev2_made_up_boards_on_desk.jpeg" alt = "Dustboxes on a desk with breakout boards attached apart from the Sensirion" title="Dustboxes with breakout boards attached" width="600">
+ <img src="./images/3.17_rev2_made_up_boards_on_desk.jpeg" alt = "Dustboxes on a desk with breakout boards attached apart from the Sensirion" title="Dustboxes with breakout boards attached" width="600">
  <br><sup>Dustboxes with breakout boards attached</sup>
  </p>
 
 * Once you have finished soldering, you can attach all the breakout boards and sensors to the PCB. You will need to take the ESP8266 out again to program it.
 
 <p>
-<img src="./images_2/IMG24_assembly_solder_leds_all_around_softer_side_view.JPG" alt="Dustbox 2.0 PCB full assembled with LED and PMS5003 data cable attached" title="Dustbox 2.0 PCB without breakout boards" width="600">
+<img src="./images/3.18_assembly_solder_leds_all_around_softer_side_view.JPG" alt="Dustbox 2.0 PCB full assembled with LED and PMS5003 data cable attached" title="Dustbox 2.0 PCB without breakout boards" width="600">
  <br><sup>Dustbox 2.0 PCB without breakout boards</sup>
 </p>
 
 <p>
-<img src="./images_2/IMG23_assembled_pcb_close_up_on_desk_side.JPG" alt = "A view of fully-made-up Dustbox 2.0 PCBs with power cables twisting around" title="Dustbox 2.0 PCB fully assembled and powered" width="600">
+<img src="./images/3.19_assembled_pcb_close_up_on_desk_side.JPG" alt = "A view of fully-made-up Dustbox 2.0 PCBs with power cables twisting around" title="Dustbox 2.0 PCB fully assembled and powered" width="600">
  <br> <sup>Dustboxes fully assembled and powered</sup>
 </p>
 
@@ -353,7 +352,7 @@ You need to install the [PL2303 driver](https://pbxbook.com/other/mac-tty.html "
 
 Connect the USB end of the cable to your computer. Attach the 4 socket cables as follows:
 <p>
-<img src="./images_2/IMG25_esp8266_ttl.jpg" alt="Image showing the pins on the Adafruit Huzzah ESP8266 Breakout connecting to white, green, red and black sockets on the Adafruit Huzzah ESP8266 Breakout (check table below)" title ="Connect the TTL cable to the Adafruit Huzzah ESP8266 Breakout" width="600">
+<img src="./images/3.20_esp8266_ttl.jpg" alt="Image showing the pins on the Adafruit Huzzah ESP8266 Breakout connecting to white, green, red and black sockets on the Adafruit Huzzah ESP8266 Breakout (check table below)" title ="Connect the TTL cable to the Adafruit Huzzah ESP8266 Breakout" width="600">
  <br><sup>Connect the TTL cable to the Adafruit Huzzah ESP8266 Breakout</sup>
 </p>
 
@@ -388,7 +387,7 @@ Once your computer and ESP8266 are connected you should see two illuminated LEDs
 * Close the window.
 
 <p>
-<img src="./images_2/IMG26_esp8266_board_install.png" alt="Screenshot showing the Boards Manager window in the Arduino IDE. Demonstrates that you search 'ESP8266' in the top right hand search bar to find the correct set of boards to install" title="Screenshot of the Boards Manager window in the Arduino IDE" width="600">
+<img src="./images/3.21_esp8266_board_install.png" alt="Screenshot showing the Boards Manager window in the Arduino IDE. Demonstrates that you search 'ESP8266' in the top right hand search bar to find the correct set of boards to install" title="Screenshot of the Boards Manager window in the Arduino IDE" width="600">
  <br> <sup>Screenshot of the Boards Manager window in the Arduino IDE</sup>
  </p>
 
@@ -449,11 +448,11 @@ We use an Over the Air (OTA) method for remote programming the Dustbox. This mea
 
 * If there is no update available
 
-  <img src="./images_2/IMG27_no_update.png" alt="Image show that the Arduino application states 'Already on the latest version' if the firmware version on the device is the latest" width="600">
+  <img src="./images/3.22_no_update.png" alt="Image show that the Arduino application states 'Already on the latest version' if the firmware version on the device is the latest" width="600">
          
 * If there is an update available
 
-  <img src="./images_2/IMG28_update.png" alt="Image show that the Arduino application states 'Preparing to update' if the firmware version on the device needs to be updated" width="600">
+  <img src="./images/3.23_update.png" alt="Image show that the Arduino application states 'Preparing to update' if the firmware version on the device needs to be updated" width="600">
   
 The Dustboxes check for an update after the sensor readings are sent to the server. When connecting to the firmware server, this takes about 20ms extra time.
 
@@ -465,21 +464,21 @@ To set up your own Dustbox firmware, you need to email the Citizen Sense team [i
 Once you have soldered the PCB and have your 3D-printed enclosure, USB cable and plug socket, you are ready to assemble the Dustbox 2.0.
 
 <p>
-<img src="./images_2/IMG29_rev2_bung_in_the_bottom.jpeg" alt ="Image showing the top and bottom half of the diesel char Dustbox 2.0 sensor and completed PCB with sensor attached beside it" title="The Dustbox 2.0 enclosure and completed PBC"  width="600">
+<img src="./images/3.24_rev2_bung_in_the_bottom.jpeg" alt ="Image showing the top and bottom half of the diesel char Dustbox 2.0 sensor and completed PCB with sensor attached beside it" title="The Dustbox 2.0 enclosure and completed PBC"  width="600">
  <br> <sup>The Dustbox 2.0 enclosure and completed PBC</sup>
  </p>
 
 1. From the bottom of the 3D-printed enclosure you will notice that there is a hole and two levers. If you wish to secure the sensor with a bolt, you can place the bolt through the bottom of the device. If you do not wish to use a bolt, you can seal the hole using the rubber stopper. 
 
 <p>
-<img src="./images_2/IMG30_rev2_bold_in_bottom.jpeg" alt="A diesel char Dustbox 2.0 with a bolt attached to the bottom" "title="Diesel char Dustbox with bolt attached" width="600">
+<img src="./images/3.25_rev2_bold_in_bottom.jpeg" alt="A diesel char Dustbox 2.0 with a bolt attached to the bottom" "title="Diesel char Dustbox with bolt attached" width="600">
  <br><sup>Diesel char Dustbox with bolt attached</sup>
  </p>
 
 2. With one hand, use two fingers to push down on the levers either side of the hole. Insert the bolt or stopper with your other hand. If using the stopper, check the underside to make sure that the hole is filled. You may need to push down a bit from the top to get the stopper fully in place.
 
 <p>
-<img src="./images_2/IMG31_rev2_placing_the_bung.jpeg" alt="fingers holding back clips to push the rubber bung into the bottom of the Dustbox enclosure" title="Inserting the bung into the diesel char Dustbox 2.0" width="600">
+<img src="./images/3.26_rev2_placing_the_bung.jpeg" alt="fingers holding back clips to push the rubber bung into the bottom of the Dustbox enclosure" title="Inserting the bung into the diesel char Dustbox 2.0" width="600">
  <br><sup>Inserting the bung into the diesel char Dustbox 2.0</sup>
 </p>
 
@@ -490,7 +489,7 @@ Once you have soldered the PCB and have your 3D-printed enclosure, USB cable and
 5. Now that the sensor is in place, connect the other end of the red and black cable to the connector on the PCB. Make sure that the cable is flat. These connectors can be a bit stiff.
 
 <p>
-<img src="./images_2/IMG32_rev2_assembled_bottom_topview.jpeg" alt="The bottom of the diesel char Dustbox 2.0 enclosure with button, LED, sensor and PCB attached" title="Bottom of the assembled Dustbox 2.0" "width="600">
+<img src="./images/3.27_rev2_assembled_bottom_topview.jpeg" alt="The bottom of the diesel char Dustbox 2.0 enclosure with button, LED, sensor and PCB attached" title="Bottom of the assembled Dustbox 2.0" width="600">
 <br><sup>Bottom of the assembled Dustbox 2.0</sup>
 </p>
 
@@ -513,12 +512,12 @@ Once you have soldered the PCB and have your 3D-printed enclosure, USB cable and
 14. Connect the USB plug socket to the end of the USB cable. Your device is now ready to be switched on.
 
 <p>
-<img src="./images_2/IMG33_dustbox_fully_assembled_lined_up_on_stevenson.JPG" alt="6 completed Dust"wiboxes lined up on Stevenson screens" title="Completed Dustboxes on Stevenson screens" width="600">
+<img src="./images/3.28_dustbox_fully_assembled_lined_up_on_stevenson.JPG" alt="6 completed Dust"wiboxes lined up on Stevenson screens" title="Completed Dustboxes on Stevenson screens" width="600">
 <br><sup>Completed Dustboxes on Stevenson screens</sup>
 </p>
 
 <p>
-<img src="./images_2/IMG44_horniman_dustbox_post_context.JPG" alt="Powered Dustbox 2.0 at the Horniman Museum and Gardens gazebo" title="Dustbox 2.0 at the Horniman gazebo" width="600"> 
+<img src="./images/3.29_horniman_dustbox_post_context.JPG" alt="Powered Dustbox 2.0 at the Horniman Museum and Gardens gazebo" title="Dustbox 2.0 at the Horniman gazebo" width="600"> 
  <br><sup>Dustbox 2.0 at the Horniman gazebo</sup>
  </p>
 
@@ -530,7 +529,7 @@ To set up your Dustbox for monitoring, you will first want to undertake a few st
 To measure the accuracy of your Dustbox 2.0 you can perform a week-long calibration with industry-grade sensors. The calibration should be performed outdoors which helps to understand how the sensors work in outdoor environmental conditions like your garden. <br>
 
 <p>
-<img src="./images_2/IMG34_sachit_programming_in_field_more_pebbles_more_anon.JPG" alt="Dustboxes installed at calibration site checking firmware version" title="Setting up sensors for calibration" width="600">
+<img src="./images/4.1_sachit_programming_in_field_more_pebbles_more_anon.JPG" alt="Dustboxes installed at calibration site checking firmware version" title="Setting up sensors for calibration" width="600">
 <br><sub>Setting up sensors for calibration</sub>
 </p>
  	
@@ -539,17 +538,17 @@ To measure the accuracy of your Dustbox 2.0 you can perform a week-long calibrat
 To calibrate the Dustbox 2.0, we undertook outdoor co-location with the TSI AM520, which is an industry-grade reference monitor. A co-location experiment gives an idea about how the data from Dustbox 2.0 compares with an industry-grade instrument. This is an important step for quality control and for evaluating the data accuracy of the Dustbox 2.0. Based on the co-location results, a correction factor can be added to the Dustbox 2.0 readings if needed. You can hire a TSI AM520 from your local air quality monitor hire company. We used [BSRIA](https://www.bsria.com/uk/product/Vn2M2r/tsi_am520_c531e0e5/) to hire a TSI AM520. Plan to collect data for a period of 4 to 7 days at a sampling rate of 1 sample per minute. 
 
 <p>
-<img src="./images_2/IMG35_sidepak_on_desk_top_and_front_view.JPG" alt ="Sidepak reference monitor being set up on a desk" title="Configuring the Sidepak reference monitor" width="600">
+<img src="./images/4.2_sidepak_on_desk_top_and_front_view.JPG" alt ="Sidepak reference monitor being set up on a desk" title="Configuring the Sidepak reference monitor" width="600">
  <br><sup>Configuring the Sidepak reference monitor</sup>
  </p>
 
 Where you perform the co-location is important. When possible, try and choose a location where pollution levels are likely to change throughout the day such as nearby a traffic intersection (with peak and non-peak hours). These variations can provide an ideal place to sense and test variations in air quality. The Dustboxes and TSI AM520 should be placed near to each other and in a screen that is around 1.0 m to 1.5 m high. A Stevenson screen could come in handy here, if you need a free-standing structure for locating your Dustbox 2.0. See [Appendix 2](https://github.com/citizensense/Airkit/blob/master/toolkit.md#appendix-2-building-a-stevenson-screen) for instructions for how to make your own screen. 
 <p>    
-<img src="./images_2/IMG36_sachit_carrying_stevenson_crossing.JPG" alt="Researcher waiting at a pedestrian crossing to take a Stevenson screen across the road" title="Transporting Stevenson screens for calibration" width="600">   
+<img src="./images/4.3_sachit_carrying_stevenson_crossing.JPG" alt="Researcher waiting at a pedestrian crossing to take a Stevenson screen across the road" title="Transporting Stevenson screens for calibration" width="600">   
  <br><sup>Transporting Stevenson screens for calibration</sup>
  </p>
 <p>
-<img src="./images_2/IMG37_sidepack_and_two_dustboxes_inside_stevenson.JPG" alt ="Two Dustbox 2.0s and a Sidepak reference monitor inside a Stevenson screen" title ="Sidepak and Dustboxes inside a Stevenson screen" width="600">  
+<img src="./images/4.4_sidepack_and_two_dustboxes_inside_stevenson.JPG" alt ="Two Dustbox 2.0s and a Sidepak reference monitor inside a Stevenson screen" title ="Sidepak and Dustboxes inside a Stevenson screen" width="600">  
  <br><sup>Sidepak and Dustboxes inside a Stevenson screen</sup>
  </p>
     
@@ -558,7 +557,7 @@ TSI AM520 comes with a battery and impactor kit that holds impactor inlets (for 
 The device will start recording the data once the data logging mode is selected using the function keys on the device. Also, there are several data logging intervals available for the device. Based on the requirement, different logging intervals can be chosen by using the function menu of the device. For more details about how to use the device, understand different functions and visualize and download data, you can refer to the official [TSI AM520 manual](https://www.fieldenvironmental.com/assets/files/Manuals/TSI%20SidePak%20AM520%20Aerosol%20Monitor%20Manual.pdf).
 
 <p>
-<img src="./images_2/IMG38_sachit_setting_up_sidepack.JPG" alt="Researcher changing the settings of the Sidepak to configure for the calibration exercise" title="Configuring the Sidepak for calibration" width="600">  
+<img src="./images/4.5_sachit_setting_up_sidepack.JPG" alt="Researcher changing the settings of the Sidepak to configure for the calibration exercise" title="Configuring the Sidepak for calibration" width="600">  
  <br><sup>Configuring the Sidepak for calibration</sup>
  </p>
 
