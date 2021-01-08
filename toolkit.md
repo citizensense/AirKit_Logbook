@@ -1,6 +1,6 @@
 # AirKit
 
-<img src="./images/0_leading_image_dustbox.jpeg" width="600"> 
+<img src="./images/0_leading_image_dustbox.jpg" width="600"> 
 
 
 ## Table of Contents
