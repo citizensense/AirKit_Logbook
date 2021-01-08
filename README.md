@@ -5,7 +5,7 @@ The [AirKit Logbook](https://github.com/citizensense/AirKit_Logbook/blob/main/to
 This Github page also contains links to software and hardware related to the Dustbox 2.0. This includes Gerber files for printing the [Dustbox 2.0 PCB](https://github.com/citizensense/AirKit_Logbook/tree/main/dustbox_2_0_PCB/GerberFiles), [source code](https://github.com/citizensense/AirKit_Logbook/blob/main/dustbox_2.0_source_code_v13.zip) and [enclosure STL files][**Update this Link**] for 3D printing.
 
 <p>
- <img src="./images/3.1_horniman_sensor_focus_soft_background.JPG" alt="A pollen Dustbox 2.0 held up by a hand overlooking London from the Horniman museum" title="Installing a Dustbox at the Horniman Museum and Gardens" width="600"><br><sup>Installing a Dustbox at the Horniman Museum and Gardens</sup>
+ <img src="./images/3.1_horniman_sensor_focus_soft_background.JPG" alt="A pollen Dustbox 2.0 held up by a hand overlooking London from the Horniman museum" title="Installing a Dustbox at the Horniman Museum and Gardens" width="600"><br>
 </p>
 
 
