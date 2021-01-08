@@ -35,7 +35,7 @@ At the same time, there has been a marked increase in the availability and accur
 
 While sensor devices offer new opportunities for citizens to monitor air quality, community engagement is key to setting up air quality monitoring networks. Citizen contributions to monitoring networks include local expertise and observations, existing and emerging community organisations, as well as infrastructural resources such as power, a network connection and space to install monitors. This section outlines in more detail the extent to which air pollution is a planetary health concern and why monitoring air quality is important. It then offers some strategies for developing your own air quality study. 
 
-<p><img src="./images/2.1_particles1.jpeg" alt="Illustration of different particles that comprise particulate matter" title="Illustration of different particles that comprise particulate matter" width="600"><br><sup>Particles that comprise particulate matter</sup></p>
+<p><img src="./images/2.1_particles1.jpg" alt="Illustration of different particles that comprise particulate matter" title="Illustration of different particles that comprise particulate matter" width="600"><br><sup>Particles that comprise particulate matter</sup></p>
 
 
 ### 2.1. The problem of air quality worldwide 
