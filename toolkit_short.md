@@ -1,6 +1,6 @@
 # AirKit Quick Start Guide
 
-<img src="images_2/G3_exploded_dustbox.jpeg" width="600"> 
+<img src="2.6_exploded_dustbox.jpg" width="600"> 
 
 ## Citizen Sense and the ‘AirKit’
 
