@@ -98,7 +98,7 @@ Your air quality monitoring project might form out of groups of people with a co
 While Dustbox 2.0 and [Airsift](https://airsift.citizensense.net/) provide data on particulate matter, temperature, humidity and wind, you may also want to collect other types of data through making regular observations about noise, smell or other environmental events; mapping; and looking at local development activity. It is important to consider what other kinds of data you can use to tell the story of your local air quality, as well as what data might not capture. You might also notice that there are other monitors in your area, including those maintained by the local council or other citizen devices. You should consider how the placement of your monitors and plans for analyzing data relate to datasets from regulatory monitors. You might find opportunities for funding your monitoring exercise from local government or community organisations.
 
 <p>
-<img src="./images/2.4_street.jpeg" alt="View of a street lined with houses and large numbers of cars travelling in each direction" title="Traffic in a residential area" width="600"> 
+<img src="./images/2.4_street.jpg" alt="View of a street lined with houses and large numbers of cars travelling in each direction" title="Traffic in a residential area" width="600"> 
  <br><sup>Traffic in a residential area</sup>
  </p>
 
@@ -127,7 +127,7 @@ While working with low-cost and DIY sensors, it is important to make sure that t
 When documenting your sensor setup, it is important to describe your approach to data collection, measurements and interpretation methods so that the process is clear to others who review your data. There is more information about how to ensure the quality of your data by co-locating and calibrating your sensors available below in [Section 3](https://github.com/citizensense/Airkit/blob/master/toolkit.md#3-building-a-dustbox-20), and on page [XXX] [**add**] of the print and PDF version of this AirKit logbook.
 
 <p>
- <img src="./images/2.6_exploded_dustbox.jpeg" alt="Exploded image of the insides of a Dustbox sensor showing how different parts fit inside the enclosure" title="Exploded image of a Dustbox 2.0" width="600"><br><sup>Dusbox 2.0 exploded to show the parts inside</sup>
+ <img src="./images/2.6_exploded_dustbox.jpg" alt="Exploded image of the insides of a Dustbox sensor showing how different parts fit inside the enclosure" title="Exploded image of a Dustbox 2.0" width="600"><br><sup>Dusbox 2.0 exploded to show the parts inside</sup>
 </p>
 
 
@@ -660,7 +660,7 @@ The AirKit toolkit should be relatively straightforward to use, and the Dustbox 
 If you are concerned about any changes in the equipment or have any questions about how to maintain it, please contact [info@citizensense.net](mailto:info@citizensense.net). Be sure to review our [Terms of Use](https://citizensense.net/about/terms/) for full guidance. Citizen Sense does not accept liability for the faulty construction, installation or use of any components of the Airkit or Dustbox 2.0, or for the interpretation of data from the toolkit.
     
 <p>
-<img src="./images/4.14_MOT.jpeg" alt="View of an MOT centre at one of the Citizen Sense monitoring sites" title="View of the MOT Centre" width="600"> 
+<img src="./images/4.14_MOT.jpg" alt="View of an MOT centre at one of the Citizen Sense monitoring sites" title="View of the MOT Centre" width="600"> 
  <br><sup>View of the MOT Centre</sup>
  </p>
     
@@ -844,7 +844,7 @@ Once you have finished writing your data story, you can publish it on the Airsif
 * You can view and read examples of published data stories at [Deptford Data Stories](https://citizensense.net/data-stories-deptford/) and [AirKit Data Stories](datastories-airkit.citizensense.net/)
 
 <p>
- <img src="./images/G6_diesel_char.jpeg" alt="An illustration of a diesel char molecule" title="A diesel char molecule" width="600">
+ <img src="./images/5.2_diesel_char.jpg" alt="An illustration of a diesel char molecule" title="A diesel char molecule" width="600">
  <br><sup>A diesel char molecule</sup>
 </p>
 
