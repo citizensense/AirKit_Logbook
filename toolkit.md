@@ -157,7 +157,7 @@ To build the Dustbox 2.0 you will need to follow four steps:
 
 <p>
 <img src="./images/3.2_programming_joanne_looking_at_screen.JPG" alt="A researcher looks at her screen in an office with lots of electronic equipment around" title = "Researchers programming" width="600">
-<img src="./images_2/3.3_programming_sachit_at_messy_desk_programming_devices_calibration_inst_visible.JPG" alt = "A researchers works at his desk calibrating a sensor. There are Dustbox 2.0 sensors all over the desk" title = "A researchers setting up a calibration device" width="600">
+<img src="./images/3.3_programming_sachit_at_messy_desk_programming_devices_calibration_inst_visible.JPG" alt = "A researchers works at his desk calibrating a sensor. There are Dustbox 2.0 sensors all over the desk" title = "A researchers setting up a calibration device" width="600">
  <br><sup>Researchers working in the Citizen Sense lab</sup>
 </p>
 
@@ -573,15 +573,15 @@ These plots give you an idea about how the Dustboxes are able to sense variation
     
 The next step involves understanding the correlation between the Dustbox data and the TSI AM520 data. You can calculate the Pearson Correlation, a number between -1 and +1 that indicates the extent to which two variables are linearly related. +1 means total positive linear correlation, 0 means no linear correlation and -1 means total negative linear correlation. You can calculate this value using the [Pandas](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.corr.html) [https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.corr.html] package in Python or by using the [correlation function](https://support.office.com/en-gb/article/correl-function-995dcef7-0c0a-4bed-a3fb-239d7b68ca92) [https://support.office.com/en-gb/article/correl-function-995dcef7-0c0a-4bed-a3fb-239d7b68ca92] in Microsoft Excel. In our co-location of the Dustbox 2.0, we observed that the R value was 0.92 for indoor colocation and 0.98 for outdoor colocation for 1-hour averaged data. 
 
-The plots below compare the performance (for 1-minute sampling) of Dustbox 2.0 devices with TSI AM520 in indoor and outdoor environments. The plots are generated using a [Plotly](https://plotly.com/?_ga=2.117570953.1255396492.1595945266-307745035.1594079626) [https://plotly.com/] tool.
+The plots below compare the performance (for 1-minute sampling) of Dustbox 2.0 devices with TSI AM520 in indoor and outdoor environments. The plots are generated using a [Plotly](https://plotly.com/) [https://plotly.com/] tool.
 
 <p>
-<img src="./images_2/IMG39_indoor.png" alt="Performance comparison in indoor environment" title="Line plot of TSI and Dustbox data sampled every 1 minute in indoor environment" width="600">  
+<img src="./images/4.6_indoor.png" alt="Performance comparison in indoor environment" title="Line plot of TSI and Dustbox data sampled every 1 minute in indoor environment" width="600">  
  <br><sup>Line plot of TSI and Dustbox data sampled every 1 minute in indoor environment</sup>
  </p>
  
  <p>
-<img src="./images_2/IMG40_outdoor.png" alt="Performance comparison in outdoor environment" title="Line plot of TSI and Dustbox data sampled every 1 minute in outdoor environment" width="600">  
+<img src="./images/4.7_outdoor.png" alt="Performance comparison in outdoor environment" title="Line plot of TSI and Dustbox data sampled every 1 minute in outdoor environment" width="600">  
  <br><sup>Line plot of TSI and Dustbox data sampled every 1 minute in outdoor environment</sup>
  </p>
 
@@ -602,10 +602,10 @@ Where you place the Dustbox in your environment depends on what you are trying t
 If you are not able to find a location that is sheltered and you would like to build a Stevenson screen to house your Dustbox 2.0 outdoors, please see Annex 2 for detailed instructions.
 
 <p>
-<img src="./images_2/IMG41_dalmain_sensor_central.JPG" alt="Dustbox 2.0 connected with cable ties onto clamped wood" width="600">  
-<img src="./images_2/IMG42_dalmain_nursey_sensor_stevenson_open.JPG" alt="Dustbox 2.0 installed in a Stevenson screen down the alley way of a building" width="600">  
-<img src="./images_2/IMG43_david_sensor_and_stevenson_face_on.JPG" alt="Dustbox 2.0 on a Stevenson screen in a garden" width="600">  
-<img src="./images_2/IMG45_laqn_dustboxes_on_monitor_landscape.JPG" alt="Two Dustboxes installed on top of an LAQN reference monitor" width="600">  
+<img src="./images/4.8_sensor_install_central.JPG" alt="Dustbox 2.0 connected with cable ties onto clamped wood" width="600">  
+<img src="./images/4.9_sensor_stevenson_install_open.JPG" alt="Dustbox 2.0 installed in a Stevenson screen down the alley way of a building" width="600">  
+<img src="./images/4.10_sensor_and_stevenson_face_on.JPG" alt="Dustbox 2.0 on a Stevenson screen in a garden" width="600">  
+<img src="./images/4.11_laqn_dustboxes_on_monitor_landscape.JPG" alt="Two Dustboxes installed on top of an LAQN reference monitor" width="600">  
  <br> <sup>Different Dustbox 2.0 installation setups</sup>
  </p>
 
@@ -621,7 +621,7 @@ The first time you turn on your Dustbox 2.0 you will need to connect it to a Wi-
 6. After a few seconds, a webpage will open. You should select the option to ‘Configure Wi-Fi’ from this page.
 
 <p>
-<img src="./images_2/IMG46_david_setting_up_wifi_in_field.JPG" alt="Smartphone screen showing the WiFIManager setup interface" title="Connecting the Dustbox to Wi-Fi" width="600">
+<img src="./images/4.12_setting_up_wifi_in_field.JPG" alt="Smartphone screen showing the WiFIManager setup interface" title="Connecting the Dustbox to Wi-Fi" width="600">
  <br><sup>Connecting the Dustbox to Wi-Fi</sup>
 </p?
 
@@ -634,7 +634,7 @@ The first time you turn on your Dustbox 2.0 you will need to connect it to a Wi-
 13. The particulate matter, temperature and humidity data from your device will be sent to our database. You should now be able to view your data in [Airsift](https://airsift.citizensense.net/). Click on 'Dustboxes' and search for your Dustbox. You may need to wait a few minutes for your first readings to come through.
 
 <p>
-<img src="./images_2/IMG47_holding_phone_data_piping_nice_hand.JPG" alt="Smartphone screen with Stream page showing data being sent from the Dustbox to the Citizen Sense server" title ="Viewing the Dustbox data on the server via Streams" width="600">  
+<img src="./images/4.13_holding_phone_data_piping_nice_hand.JPG" alt="Smartphone screen with Stream page showing data being sent from the Dustbox to the Citizen Sense server" title ="Viewing the Dustbox data on the server via Streams" width="600">  
  <br><sup>Viewing the Dustbox data on the server via Streams</sup>
 </p>
 
@@ -660,7 +660,7 @@ The AirKit toolkit should be relatively straightforward to use, and the Dustbox 
 If you are concerned about any changes in the equipment or have any questions about how to maintain it, please contact [info@citizensense.net](mailto:info@citizensense.net). Be sure to review our [Terms of Use](https://citizensense.net/about/terms/) for full guidance. Citizen Sense does not accept liability for the faulty construction, installation or use of any components of the Airkit or Dustbox 2.0, or for the interpretation of data from the toolkit.
     
 <p>
-<img src="./images_2/G5_MOT.jpeg" alt="View of an MOT centre at one of the Citizen Sense monitoring sites" title="View of the MOT Centre" width="600"> 
+<img src="./images/4.14_MOT.jpeg" alt="View of an MOT centre at one of the Citizen Sense monitoring sites" title="View of the MOT Centre" width="600"> 
  <br><sup>View of the MOT Centre</sup>
  </p>
     
@@ -672,7 +672,7 @@ To understand pollution trends and seasonality, it is recommended to collect dat
 
 This section describes how to use Airsift, including how to view and analyze data, record observations and write data stories.
 
-<img src="./images_2/airsift_landing_page.png" width="600"> 
+<img src="./images/5.1_airsift_landing_page.png" width="600"> 
 
 ### 5.1. Airsift DIY data analysis overview
 
@@ -693,8 +693,6 @@ If you select 'Dustboxes' from the navigation pane, it will provide a list of Du
 If you hover over a circle, it will bring up a pop-up window that displays further details about the Dustbox, including its number/name, location, the most recent hourly reading and date. Clicking on the Dustbox will give further detail including a line graph of latest data and a button to 'Analyse Data' further.  
 
 ### 5.4. Airsift Analysis
-
-<img src="./images_2/airsift_analysis_page.png" width="600"> 
 
 Airsift offers an air quality analysis application to produce a range of charts and graphs that allow you to interpret citizen sensing data. This feature can be accessed through the navigating to Analysis on the top right navigation bar. You can also access these analysis options through selecting a Dustbox on the map and selecting 'Analyse Data'. 
 
@@ -846,7 +844,7 @@ Once you have finished writing your data story, you can publish it on the Airsif
 * You can view and read examples of published data stories at [Deptford Data Stories](https://citizensense.net/data-stories-deptford/) and [AirKit Data Stories](datastories-airkit.citizensense.net/)
 
 <p>
- <img src="./images_2/G6_diesel_char.jpeg" alt="An illustration of a diesel char molecule" title="A diesel char molecule" width="600">
+ <img src="./images/G6_diesel_char.jpeg" alt="An illustration of a diesel char molecule" title="A diesel char molecule" width="600">
  <br><sup>A diesel char molecule</sup>
 </p>
 
@@ -969,7 +967,7 @@ When you create sign up for Airsift you can select privacy options on your data,
 The Dustbox comes with waterproof housing and a removable bolt that can be connected to a shelf or other surface. In some situations it can be useful to have something to put your Dustbox in if you do not have access to sheltered outdoor space. Stevenson screens are shelters that can house sensors protecting them from the elements and allowing air to circulate. Professional Stevenson screens can be expensive to purchase but you can make your own using wood and air vents using the instructions below. A bit of wood-working experience and another pair of hands can really help with this process.
 
 <p>
-<img src="./images_2/IMG48_three_white_stevenson_screens_in_a_row_pdoc_room.JPG" alt="Three white Stevenson screens built and ready to be deployed" width="600">  
+<img src="./images/A2.1_three_white_stevenson_screens_in_a_row_pdoc_room.JPG" alt="Three white Stevenson screens built and ready to be deployed" width="600">  
  <br><sup>Three Stevenson screens waiting to be deployed</sup>
  </p>
  
@@ -1045,7 +1043,7 @@ The Dustbox comes with waterproof housing and a removable bolt that can be conne
 
 18. Paint all wood that will be directly exposed to the elements using white exterior wood paint.
 
-<img src="./images_2/IMG49_stevenson_filed_for_cables.JPG" width="600"> 
+<img src="./images/A2.2_stevenson_filed_for_cables.JPG" width="600"> 
 
 
 ### Using other parts
