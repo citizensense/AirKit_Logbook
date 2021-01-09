@@ -856,15 +856,17 @@ We are interested to hear about air quality campaigns and how you are using or p
 
 The Citizen Sense and AirKit projects are led by Professor Jennifer Gabrys. AirKit has been developed working in collaboration with [Dr Sachit Mahajan](https://planetarypraxis.org/people/sachit-mahajan) and [Dr Joanne Armitage](https://planetarypraxis.org/people/joanne-armitage). Thanks are due to our additional collaborators including:
 
-[Common Knowledge](https://commonknowledge.coop/) contributed to the development of the Airsift platform. Lau Thiam Kok and Tassos Noulas contributed to the data architecture of the Airsift platform. 
+[Common Knowledge](https://commonknowledge.coop/) contributed to the overall development of the Airsift platform. Lau Thiam Kok and Tassos Noulas contributed to the development of the data architecture that informed the Airsift platform.
 
-The Citizen Sense Dustbox 2.0 included collaborative contributions to the materials design and 3D printing by Andrea Rinaldi, who built on an earlier Citizen Sense Dustbox 1.0 designs developed in collaboration with [Francesca Perona](http://www.francescaperona.com/) and [Helen Pritchard](https://citizensense.net/about/people/helen-pritchard/).
+The Citizen Sense Dustbox 2.0 included collaborative contributions to the materials design and 3D printing by [Andrea Rinaldi](https://www.andrearinaldi.eu/), who built on an earlier Citizen Sense Dustbox 1.0 designs developed in collaboration with [Francesca Perona](http://www.francescaperona.com/) and [Helen Pritchard](https://citizensense.net/about/people/helen-pritchard/).
 
 Special thanks are due to the participants and residents in the Forest Hill area of London who contributed to the development and testing of AirKit and the Dustbox 2.0, as well as to the collection and analysis of data and communication of results to wider publics and regulators. For more information on project contributors, see Citizen Sense [People](http://citizensense.net/about/people/).
 
 The research leading to these results has received funding from the European Research Council under the European Union’s Seventh Framework Programme (FP/2007-2013) / ERC Grant Agreement [n. 313347](https://cordis.europa.eu/project/id/313347), “Citizen Sensing and Environmental Practice: Assessing Participatory Engagements with Environments through Sensor Technologies,” and from the European Research Council under the European Union’s Horizon 2020 research and innovation programme (ERC Grant Agreement [n. 779921](https://cordis.europa.eu/project/id/779921)), “AirKit: Citizen Sense Air Monitoring Kit.” Further funding was received through an ESRC Impact Acceleration Account from the University of Cambridge (2020).
 
 AirKit is available to use under a [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. You are free to use, adapt, and share this toolkit for non-commercial purposes under the same CC BY-NC-SA license, and with attribution to Citizen Sense. 
+
+To cite this logbook, please use the reference: Citizen Sense, “AirKit Logbook,” 1 February 2021. Available at: https://github.com/citizensense/AirKit_Logbook.
 
 __________________________________________________________________________
 
