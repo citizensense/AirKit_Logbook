@@ -848,13 +848,13 @@ Once you have finished writing your data story, you can publish it on the Airsif
 
 ## 6. Summary and Acknowledgments
 
-This logbook has discussed the process of establishing a citizen sensing study. It takes you through the process of identifying air quality concerns, building a Dustbox 2.0, setting up a Dustbox and collecting data, as well as interpreting data and developing data stories to communicate your findings to multiple publics and stakeholders. 
+This [AirKit](https://citizensense.net/projects/airkit/) Logbook outlines the process of establishing a citizen sensing study. It takes you through the process of identifying air quality concerns, building a Dustbox 2.0, setting up a Dustbox and collecting data, as well as interpreting data and developing data stories to communicate your findings to multiple publics and stakeholders. 
 
 We are interested to hear about air quality campaigns and how you are using or planning to use the AirKit to collect and analyze data. We are also interested in receiving  feedback or comments you have related to the AirKit. If you would like further information on any aspect of AirKit, please contact us on [info@citizensense.net](mailto:info@citizensense.net).
 
-The Citizen Sense and AirKit projects are led by Professor Jennifer Gabrys. AirKit has been developed working in collaboration with [Dr Sachit Mahajan](https://planetarypraxis.org/people/sachit-mahajan) and [Dr Joanne Armitage](https://planetarypraxis.org/people/joanne-armitage). Thanks are due to our additional collaborators including:
+The [Citizen Sense](https://citizensense.net/) and [AirKit](https://citizensense.net/projects/airkit/) projects are led by Professor [Jennifer Gabrys](https://planetarypraxis.org/people/jennifer-gabrys). AirKit has been developed working in collaboration with [Dr Sachit Mahajan](https://planetarypraxis.org/people/sachit-mahajan) and [Dr Joanne Armitage](https://planetarypraxis.org/people/joanne-armitage). Thanks are due to our additional collaborators including:
 
-[Common Knowledge](https://commonknowledge.coop/) contributed to the overall development of the Airsift platform. Lau Thiam Kok and Tassos Noulas contributed to the development of the data architecture that informed the Airsift platform.
+[Common Knowledge](https://commonknowledge.coop/) contributed to the overall development of the [Airsift](airsift.citizensense.net/) platform. Lau Thiam Kok and Tassos Noulas contributed to the development of the data architecture that informed the Airsift platform.
 
 The Citizen Sense Dustbox 2.0 included collaborative contributions to the materials design and 3D printing by [Andrea Rinaldi](https://www.andrearinaldi.eu/), who built on an earlier Citizen Sense Dustbox 1.0 designs developed in collaboration with [Francesca Perona](http://www.francescaperona.com/) and [Helen Pritchard](https://citizensense.net/about/people/helen-pritchard/).
 
