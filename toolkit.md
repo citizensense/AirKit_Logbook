@@ -15,8 +15,6 @@
 9. [Appendix 3](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#appendix-3-additional-resources): Additional Resources 
 
 
-
-
 ## 1. AirKit Introduction
 
 [AirKit](https://citizensense.net/projects/airkit/) is an air quality monitoring toolkit that can be used by a broad range of community groups, concerned citizens and environmental initiatives in order to observe, document and address the problem of air pollution. 
