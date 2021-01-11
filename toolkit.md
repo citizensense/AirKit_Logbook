@@ -636,7 +636,7 @@ The first time you turn on your Dustbox 2.0 you will need to connect it to a Wi-
  <br><sup>Viewing the Dustbox data on the server via Streams</sup>
 </p>
 
-14. You can analyze your data in our DIY data analysis tool, [Airsift](https://airsift.citizensense.net/). This tool allows you to select the date range, data mean (e.g., hourly data), and to compare your data to other monitoring sites, including LAQN sites. You can also download your data as image files (.png) or data files (.csv) from the Airsift tool.
+14. You can analyze your data in our DIY data analysis tool, [Airsift](https://airsift.citizensense.net/). This tool allows you to select the date range, data mean (e.g., hourly data), and to compare your data to other monitoring sites. You can also download your data as image files (.png) or data files (.csv) from the Airsift tool.
 15. For an example of how plots and graphs from the Airsift tool can be put together into ‘Data Stories’, see our [Deptford Data Stories](https://citizensense.net/data-stories-deptford/). Find more details and instructions for creating your own data story in [Section 5.6](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#56-airsift-data-stories).
 
 Note: In case the Dustbox does not respond or the LED doesn't switch off, just press the reset button once and wait for it to reconnect. Once reconnected the LED will stop flashing.
