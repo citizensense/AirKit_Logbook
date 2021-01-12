@@ -33,18 +33,12 @@ The first time you turn on your Dustbox 2.0 you will need to connect it to a Wi-
 9.	Once data is sending, the LED will shut down. Your Dustbox 2.0 will now be sensing and sending data!
 10.	The local ESP network will automatically disappear if you turn off the power to your Dustbox 2.0. Your Dustbox 2.0 will automatically re-connect to your Wi-Fi network once the Dustbox 2.0 is turned back on. 
 11.	If you need to update your Wi-Fi connection because your Wi-Fi details change, you will need to re-configure your Dustbox 2.0 by repeating steps 1 to 7 above.
-12.	The particulate matter, temperature and humidity data from your device will be sent to our database. 
-
-You can view your data on Airsift under on the [Dustboxes](https://airsift.citizensense.net/dustboxes/) page. Your data will be open for others to view, but it will not be identified by name. Instructions for using Airsift are available in the **Section 5** of the Logbook [**(p. XX)**]. 
-
-If you are unable to see your data, please refer to **Appendix 1: Troubleshooting and FAQs** [**(p. XX)**]. 
-
-13.	For an example of how plots and graphs from the Airsift tool can be put together into ‘Data Stories’, see our ‘AirKit Data Stories’ at [https://www.datastories-airkit.citizensense.net/](https://www.datastories-airkit.citizensense.net/).
-
+12.	The particulate matter, temperature and humidity data from your device will be sent to our database. You can view your data on Airsift on the [Dustboxes](https://airsift.citizensense.net/dustboxes/) page. Your data will be open for others to view, but it will not be identified by name. Instructions for using Airsift are available in [**Section 5**](https://github.com/citizensense/AirKit_Logbook/blob/main/toolkit.md#5-data-analysis-and-data-stories) of the AirKit Logbook. If you are unable to see your data, please refer to [**Appendix 1: Troubleshooting and FAQs**](https://github.com/citizensense/AirKit_Logbook/blob/main/toolkit.md#appendix-1-troubleshooting-and-faq). 
+13.	You can assemble plots and graphs from the Airsift into your own [Data Stories](https://airsift.citizensense.net/datastories/). On the Citizen Sense website, you can also view examples of [Covid Data Stories](datastories-covid.citizensense.net/) that we have developed using the AirKit toolkit. 
 
 ## Health and Safety
 
-The AirKit toolkit should be relatively straightforward to use, and the Dustbox 2.0 should be easy to plug in and begin monitoring your air quality. However, it is important to follow common-sense precautions when setting up and using the Dustbox 2.0, and when monitoring air pollution more generally. Please follow this guidance when using your Dustbox 2.0:
+The [AirKit toolkit](https://citizensense.net/kits/airkit/) should be relatively straightforward to use, and the Dustbox 2.0 should be easy to plug in and begin monitoring your air quality. However, it is important to follow common-sense precautions when setting up and using the Dustbox 2.0, and when monitoring air pollution more generally. Please follow this guidance when using your Dustbox 2.0:
 *	If you have placed the Dustbox 2.0 in an area of expected elevated pollution activity, be sure to minimise prolonged exposure by spending only short periods of time near the monitoring area.
 *	Make sure that the sensor is not mounted near any vents, cooking areas, humidifiers or boiler outlets as this could affect the sensor readings.
 *	If you place the Dustbox 2.0 close to a roadside, take precautions and set the device back from the road to minimise risk from traffic. To minimise risk from road traffic, do not walk along the road while using monitoring kit or while looking at the website collecting data from the devices. 
@@ -53,5 +47,5 @@ The AirKit toolkit should be relatively straightforward to use, and the Dustbox 
 *	In the event that dust or bugs get lodged in your sensors, you can power off the device, open the case at the centre and clean it by spraying the sensor opening with canned air. 
 *	While you will need to open up the device for cleaning, you should avoid dismantling the electronics as this could present a risk of shock and could interfere with the measurement functioning of the device.
 *	Ensure the Dustbox 2.0 is maintained and in a good state of repair when it is given to you.
-*	Please note that by taking a Dustbox 2.0, you agree to take care of your kit and return it to us when requested. 
-If you are concerned about any changes in the equipment or have any questions about how to maintain it, please contact [info@citizensense.net](mailto:info@citizensense.net).
+*	Please note that if you borrow a Dustbox 2.0, you agree to take care of your kit and return it to us when requested. 
+If you have any questions about how to maintain the Dustbox 2.0, please contact [info@citizensense.net](mailto:info@citizensense.net).
