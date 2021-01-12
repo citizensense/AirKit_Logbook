@@ -1143,6 +1143,8 @@ http://ec.europa.eu/environment/air/quality/standards.htm
 
 * CanAir.io, http://canair.io/ : Citizen science initiative to create air quality network in Colombia.
 
+* Citizen Sense, Phyto-Sensor Toolkit, http://phyto-sensor-toolkit.citizensense.net/.
+
 * #CleanAirFL, https://floridadep.gov/comm/ombudsman-public-services/campaign/cleanairfl : Citizen science kits for air quality monitoring sponsored by governmental organization.
 
 * Hawa Badlo - Act for a Better Tomorrow, http://changetheair.org/ : Hawa Badlo is an Indian grassroots movement fighting air pollution that has reached 6.6 million people digitally. 
