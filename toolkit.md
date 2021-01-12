@@ -1143,7 +1143,7 @@ http://ec.europa.eu/environment/air/quality/standards.htm
 
 * CanAir.io, http://canair.io/ : Citizen science initiative to create air quality network in Colombia.
 
-* Citizen Sense, Phyto-Sensor Toolkit, http://phyto-sensor-toolkit.citizensense.net/.
+* Citizen Sense, Phyto-Sensor Toolkit, https://phyto-sensor-toolkit.citizensense.net/.
 
 * #CleanAirFL, https://floridadep.gov/comm/ombudsman-public-services/campaign/cleanairfl : Citizen science kits for air quality monitoring sponsored by governmental organization.
 
