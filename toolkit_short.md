@@ -48,4 +48,4 @@ The [AirKit toolkit](https://citizensense.net/kits/airkit/) should be relatively
 *	While you will need to open up the device for cleaning, you should avoid dismantling the electronics as this could present a risk of shock and could interfere with the measurement functioning of the device.
 *	Ensure the Dustbox 2.0 is maintained and in a good state of repair when it is given to you.
 *	Please note that if you borrow a Dustbox 2.0, you agree to take care of your kit and return it to us when requested. 
-If you have any questions about how to maintain the Dustbox 2.0, please contact [info@citizensense.net](mailto:info@citizensense.net).
+If you are concerned about any changes in the equipment or have any questions about how to maintain it, please contact [info@citizensense.net](mailto:info@citizensense.net). Citizen Sense does not accept liability for the faulty construction, installation or use of any components of the Airkit or Dustbox 2.0, or for the interpretation of data from the toolkit.
