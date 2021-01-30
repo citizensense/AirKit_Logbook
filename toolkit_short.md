@@ -8,7 +8,7 @@ Hello and thanks for contributing to [AirKit](https://citizensense.net/projects/
 
 The AirKit Logbook includes suggestions for how to set up an air-quality monitoring project, instructions on how to use and build a Dustbox 2.0 monitor for measuring particulate matter, guidance on analysing your data on our [Airsift](https://airsift.citizensense.net/) platform, and resources for writing your own data stories for communicating your data and proposals for action more widely. Our intention is to create an air quality monitoring toolkit that can be used by a broad range of community groups, concerned citizens, and environmental initiatives in order to observe, document and address the problem of air pollution.
 
-Citizen Sense is led by [Prof Jennifer Gabrys](https://research.sociology.cam.ac.uk/profile/professor-jennifer-gabrys) in the Department of Sociology at the University of Cambridge. Our research has received funding from the European Research Council (ERC: 33147 and 77921). We welcome your comments and feedback to improve the toolkit. If you would like to get in touch, you can contact us at [info@citizensense.net](mailto:info@citizensense.net). 
+Citizen Sense is led by [Prof Jennifer Gabrys](https://research.sociology.cam.ac.uk/profile/professor-jennifer-gabrys) in the Department of Sociology at the University of Cambridge. Our research has received funding from the European Research Council (ERC: 33147 and 77921). AirKit is available to use under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. If you would like to get in touch, you can contact us at [info@citizensense.net](mailto:info@citizensense.net). 
 
 ## Setting up the Dustbox 2.0
 
