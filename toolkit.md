@@ -256,7 +256,7 @@ Breakout boards are PCBs that have been designed by companies to make electronic
 
 * The header pins are soldered to the pin holes in each PCB. Whilst most components come with their own header pins sometimes you may need to cut a few pins off. Make the cuts slowly and steadily as they can ping off.
 * The best way to solder header pins to the PCB is using a breadboard. Place the cut-to-length header pins in a breadboard so the short ends poke through the top then place the PCB over top. It is important to make sure that the PCB is flat and that the header pins are perpendicular to the PCB. You can tuck heat-resistant items under the PCB to make it level, or just apply some extra pressure with your iron.
-* You are now ready to solder the PCB. For further instructions on this step, see the soldering guide above in [Section 3.2](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#32-assembling-the-electronics) (also on **page XX** of the print or PDF Logbook [**add**]).
+* You are now ready to solder the PCB. For further instructions on this step, see the soldering guide above in [Section 3.2](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#32-assembling-the-electronics) (also on **page 39** of the [webpage and PDF version](https://airkit-logbook.citizensense.net) of this AirKit logbook).
 
 #### Soldering components to the Dustbox 2.0 PCB
 
