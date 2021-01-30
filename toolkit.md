@@ -855,7 +855,7 @@ We are interested to hear about air quality campaigns and how you are using or p
 
 The [Citizen Sense](https://citizensense.net/) and [AirKit](https://citizensense.net/projects/airkit/) projects are led by Professor [Jennifer Gabrys](https://planetarypraxis.org/people/jennifer-gabrys). AirKit has been developed working in collaboration with [Dr Sachit Mahajan](https://planetarypraxis.org/people/sachit-mahajan) and [Dr Joanne Armitage](https://planetarypraxis.org/people/joanne-armitage). Thanks are due to our additional collaborators including:
 
-[Common Knowledge](https://commonknowledge.coop/) contributed to the overall development of the [Airsift](airsift.citizensense.net/) platform. Lau Thiam Kok and Tassos Noulas contributed to the development of the data architecture that informed the Airsift platform.
+[Common Knowledge](https://commonknowledge.coop/) contributed to the overall development of the [Airsift](airsift.citizensense.net/) platform. Lau Thiam Kok and Tassos Noulas contributed to the development of the data architecture that informed the Airsift platform. [Sarah Garcin](https://sarahgarcin.com/) developed the graphic design of the [AirKit Logbook webpage and PDF](https://airkit-logbook.citizensense.net).
 
 The Citizen Sense Dustbox 2.0 included collaborative contributions to the materials design and 3D printing by [Andrea Rinaldi](https://www.andrearinaldi.eu/), who built on an earlier Citizen Sense Dustbox 1.0 designs developed in collaboration with [Francesca Perona](http://www.francescaperona.com/) and [Helen Pritchard](https://citizensense.net/about/people/helen-pritchard/).
 
