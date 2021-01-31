@@ -192,11 +192,11 @@ The components required to build the Dustbox 2.0 sensor are listed below and inc
 #### Dustbox 2.0 enclosure
 In order to build the Dustbox 2.0 you will need to print the 3D enclosure and PCB. The Dustbox 2.0 enclosure is designed to be water- and weather-proof to ensure that all electronic parts are protected. At the same time, the enclosure allows air to flow through to the sensor. 
 
-There are two Dustbox 2.0 shapes **pollen** and **diesel char**. The diesel char design can be printed from [these designs](https://github.com/citizensense/AirKit_Logbook/tree/main/dustbox_2_0_stl_files/diesel_char). There is a hole in the bottom of the enclosure where a bolt can be inserted and connected to a shelf ([M8 x 38mm Stainless Steel Square Head Bolt](https://www.tradesignz.com/square-head-m8-x-ss-bolts-nuts-washers.html)). If you plan to use this design without a bolt, you need to print a [rubber bung](https://github.com/citizensense/AirKit_Logbook/blob/main/dustbox_2_0_stl_files/diesel_char/diesel_char_bung.stl) so that water cannot enter the bottom of the sensor. The [pollen design](https://github.com/citizensense/AirKit_Logbook/tree/main/dustbox_2_0_stl_files/pollen) does not have a hole in the bottom so does not require the rubber stopper to be printed.
+There are two Dustbox 2.0 shapes: **pollen** and **diesel char**. The diesel char design can be printed from [these designs](https://github.com/citizensense/AirKit_Logbook/tree/main/dustbox_2_0_stl_files/diesel_char). There is a hole in the bottom of the enclosure where a bolt can be inserted and connected to a shelf ([M8 x 38mm Stainless Steel Square Head Bolt](https://www.tradesignz.com/square-head-m8-x-ss-bolts-nuts-washers.html)). If you plan to use this design without a bolt, you need to print a [rubber bung](https://github.com/citizensense/AirKit_Logbook/blob/main/dustbox_2_0_stl_files/diesel_char/diesel_char_bung.stl) so that water cannot enter the bottom of the sensor. The [pollen design](https://github.com/citizensense/AirKit_Logbook/tree/main/dustbox_2_0_stl_files/pollen) does not have a hole in the bottom so does not require the rubber stopper to be printed.
 
-The prototypes we have built are produced by [Materialise](https://www.materialise.com/en) and printed in the Multi Jet Fusion PA 12 material. All you need to do is download the files at this link and send them to your preferred manufacturer. Printing the enclosure costs around €200 each. You can easily print the [STL files](https://github.com/citizensense/AirKit_Logbook/tree/main/dustbox_2_0_stl_files) yourself if you have access to a 3D printer. You should print with materials that offer some weather-proofing and UV resistance.
+The prototypes we have built are produced by [Materialise](https://www.materialise.com/en) and printed in the Multi Jet Fusion PA 12 material. All you need to do is download the [STL files](https://github.com/citizensense/AirKit_Logbook/tree/main/dustbox_2_0_stl_files) and send them to your preferred manufacturer. Printing the enclosure costs around €200 each. You can easily print the [STL files](https://github.com/citizensense/AirKit_Logbook/tree/main/dustbox_2_0_stl_files) yourself if you have access to a 3D printer. You should print with materials that offer some weather-proofing and UV resistance.
 
-It is possible to create your own cheaper alternative so long as it is waterproof and protects the electronics. This could be a small box with holes drilled out for the power cable and sensor air inlet.
+It is possible to create your own housing as cheaper alternative. For instance, the housing could be a small box with holes drilled out for the power cable and sensor air inlet. Be sure that the housing is waterproof and protects the electronics. 
 
 
 #### Dustbox 2.0 PCB
@@ -242,7 +242,7 @@ There are two phases of soldering (1) soldering headers pins to the breakout boa
 * If you have not soldered before, try and make a couple of test joints to get a feel for the process.
 
 <p><img src="./images/3.6_assembly_parts_laid_out_pre-soldering_top.JPG" alt="A view of some of the parts used to make one Dustbox including a Plantower PM sensor, Sensirion SHT31-D, PCB, Adafruit Huzzah ESP8266 Breakout, resistors, connectors and header pins" title="Dustbox 2.0 parts laid out" width="600">
- <br><sup>The Dustbox 2.0 parts laid out</sup>
+ <br><sup>The Dustbox 2.0 parts</sup>
  </p>
 
 #### Soldering headers to breakouts
@@ -254,7 +254,7 @@ Breakout boards are PCBs that have been designed by companies to make electronic
  <br><sup>Connecting the Adafruit Huzzah ESP8266 Breakout to pin headers</sup>
  </p>
 
-* The header pins are soldered to the pin holes in each PCB. Whilst most components come with their own header pins sometimes you may need to cut a few pins off. Make the cuts slowly and steadily as they can ping off.
+* The header pins are soldered to the pin holes in each PCB. While most components come with their own header pins sometimes you may need to cut a few pins off. Make the cuts slowly and steadily as they can ping off.
 * The best way to solder header pins to the PCB is using a breadboard. Place the cut-to-length header pins in a breadboard so the short ends poke through the top then place the PCB over top. It is important to make sure that the PCB is flat and that the header pins are perpendicular to the PCB. You can tuck heat-resistant items under the PCB to make it level, or just apply some extra pressure with your iron.
 * You are now ready to solder the PCB. For further instructions on this step, see the soldering guide above in [Section 3.2](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#32-assembling-the-electronics) (also on **page 39** of the [webpage and PDF version](https://airkit-logbook.citizensense.net) of this AirKit logbook).
 
