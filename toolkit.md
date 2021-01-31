@@ -256,11 +256,11 @@ Breakout boards are PCBs that have been designed by companies to make electronic
 
 * The header pins are soldered to the pin holes in each PCB. While most components come with their own header pins sometimes you may need to cut a few pins off. Make the cuts slowly and steadily as they can ping off.
 * The best way to solder header pins to the PCB is using a breadboard. Place the cut-to-length header pins in a breadboard so the short ends poke through the top then place the PCB over top. It is important to make sure that the PCB is flat and that the header pins are perpendicular to the PCB. You can tuck heat-resistant items under the PCB to make it level, or just apply some extra pressure with your iron.
-* You are now ready to solder the PCB. For further instructions on this step, see the soldering guide above in [Section 3.2](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#32-assembling-the-electronics) (also on **page 39** of the [webpage and PDF version](https://airkit-logbook.citizensense.net) of this AirKit logbook).
+* You are now ready to solder the PCB. For further instructions on this step, see the soldering guide above in [Section 3.2](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#32-assembling-the-electronics).
 
 #### Soldering components to the Dustbox 2.0 PCB
 
-Once the breakouts are fully assembled you are ready to solder parts to the Dustbox 2.0 PCB. The PCB has two sides you can tell them apart as the top side has some text on it. We will solder all components to the top side of the board. It is best to solder low-profile components like resistors first, this can be done in stages grouping similar height parts together.
+Once the breakouts are fully assembled you are ready to solder parts to the Dustbox 2.0 PCB. The PCB has two sides, and you can tell them apart as the top side has some text on it. We will solder all components to the top side of the board. It is best to solder low-profile components like resistors first. This can be done in stages grouping similar height parts together.
 
 <p>
 <img src="./images/3.8_assembly_joanne_soldering_scokets.JPG" alt="A researcher holds a soldering iron in her hand as she solders parts to the Dustbox 2.0 PCB" title="Connecting parts to the Dustbox 2.0 PCB" width="600">
@@ -432,13 +432,13 @@ In the Arduino IDE press the upload button which is the arrow pointing right at 
 
 If you have built your own Dustbox you will need to contact the Citizen Sense team [info@citizensense.net](mailto:info@citizensense.net) who will create a new stream for you to pipe data to. This process will also generate a unique public and private key for your device that will allow it to communicate with our server. We will email you this information along with an ID for your Dustbox (dustboxXXXX) and local access point password so that you can connect to your local WiFi network. You will need to edit the [Dustbox 2.0 source code](https://github.com/citizensense/AirKit_Logbook/blob/main/dustbox_2.0_source_code_v13.zip) with this information.
 
-To upload the code to the ESP8266 you will need to place it in bootload mode and following the instructions above with the new file. To test that your Dustbox 2.0 is working and piping data, see the instructions for connecting it to your local Wi-Fi in [Section 4.4](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#44-connecting-your-dustbox-20-to-a-wi-fi-network) below and on **page 53** of the [webpage and PDF version](https://airkit-logbook.citizensense.net) of this AirKit logbook.
+To upload the code to the ESP8266 you will need to place it in bootload mode and following the instructions above with the new file. To test that your Dustbox 2.0 is working and piping data, see the instructions for connecting it to your local Wi-Fi in [Section 4.4](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#44-connecting-your-dustbox-20-to-a-wi-fi-network) below.
 
 #### Firmware
 
 To set up your own Dustbox firmware, you should first email the Citizen Sense team [info@citizensense.net](mailto:info@citizensense.net) who will assign you a Dustbox number, public key and private key.
 
-Each Dustbox has a separate firmware file that includes a set of functions to start the Wi-Fi manager, connect to the network, read the sensor data, send the data to the server and check if there is any updated firmware available. The Citizen Sense server holds the current firmware version as well as any firmware update. The firmware file includes all functions for sensing particulate matter, temperature and humidity data, as well as sending data on these three variables to the Citizen Sense server over a secure transmission channel. The data transmission is done using a set of keys for identifying the Dustbox stream. When the device is awake, an HTTP connection is set up and the data is sent in the form of a GET request. Once the response is received from the server, the connection is closed and the device goes back to sleep. The data is posted using GET and POST requests that are based on public and private keys provided by the Citizen Sense platform when creating a data stream. The sensed data can be viewed at on the [Airsift](https://airsift.citizensense.net/) platform.
+Each Dustbox has a separate firmware file that includes a set of functions to start the Wi-Fi manager, connect to the network, read the sensor data, send the data to the server and check if there is any updated firmware available. The Citizen Sense server holds the current firmware version as well as any firmware update. The firmware file includes all functions for sensing particulate matter, temperature and humidity data, as well as sending data on these three variables to the Citizen Sense server over a secure transmission channel. The data transmission is done using a set of keys for identifying the Dustbox stream. When the device is awake, an HTTP connection is set up and the data is sent in the form of a GET request. Once the response is received from the server, the connection is closed and the device goes back to sleep. The data is posted using GET and POST requests that are based on public and private keys provided by the Citizen Sense platform when creating a data stream. The data can be viewed on the [Airsift](https://airsift.citizensense.net/) platform.
 
 We use an Over the Air (OTA) method for remote programming the Dustbox. This means that if a new firmware version is available and the Dustbox needs to be updated, it can be done remotely using OTA. Each Dustbox 2.0 has two files stored at the server. One is the .bin file that is the firmware image. Along with each firmware image there is a simple text file with a single line containing a version number. For example: in case of Dustbox 2062, there would be two files:
 
@@ -525,7 +525,7 @@ To set up your Dustbox for monitoring, you will first want to undertake a few st
 
 ## 4.1. Calibrating your Dustbox 2.0
 
-To measure the accuracy of your Dustbox 2.0 you can perform a week-long calibration with industry-grade sensors. The calibration should be performed outdoors which helps to understand how the sensors work in outdoor environmental conditions like your garden. <br>
+To measure the accuracy of your Dustbox 2.0 you can perform a week-long calibration with industry-grade sensors. The calibration should be performed outdoors, which helps to understand how the sensors work in outdoor environmental conditions. <br>
 
 <p>
 <img src="./images/4.1_sachit_programming_in_field_more_pebbles_more_anon.JPG" alt="Dustboxes installed at calibration site checking firmware version" title="Setting up sensors for calibration" width="600">
@@ -592,13 +592,13 @@ Where you place the Dustbox in your environment depends on what you are trying t
 * Select a location that is outdoors but reasonably sheltered and out of the rain, wind and elements. Before winds or rain occur, ensure the equipment is secure in the event of extreme weather activity.
 * The Dustbox should preferably be located outside and within reach of your Wi-Fi network and a power socket. The closer the Dustbox is to the Wi-Fi router the better the connection will be.
 * The power socket will need to be switched on at all times to ensure that the Dustbox is constantly monitoring. 
-* The enclosure is designed to fit a Pexon USB cable (detailed in [Building a Dustbox 2.0](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#3-building-a-dustbox-20) or **page 75** [**add**]) of the [webpage and PDF version](https://airkit-logbook.citizensense.net) of this AirKit logbook. This cable is 5-feet long. You can use a different USB cable but it might not fit snug in the enclosure. If you require a longer cable, you will need to use an extension cable and dry box, for example: [Masterplug Weatherproof Box with Extension Lead](https://www.homebase.co.uk/masterplug-weatherproof-box-with-4-socket-extension-lead-8m-black_p395422). Ensure that the power cable is secured with cable clips or tape so that it is not a trip hazard.
+* The enclosure is designed to fit a Pexon USB cable (detailed in [Building a Dustbox 2.0](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#3-building-a-dustbox-20) or **page 60** of the [webpage and PDF version](https://airkit-logbook.citizensense.net) of this AirKit logbook. This cable is 5-feet long. You can use a different USB cable but it might not fit snug in the enclosure. If you require a longer cable, you will need to use an extension cable and dry box, for example: [Masterplug Weatherproof Box with Extension Lead](https://www.homebase.co.uk/masterplug-weatherproof-box-with-4-socket-extension-lead-8m-black_p395422). Ensure that the power cable is secured with cable clips or tape so that it is not a trip hazard.
 * Ensure that airflow is able to reach the sensor by locating it away from obstructions. Place the device away from the ground and building surfaces by approximately 1 meter distance in all directions.
 * Avoid installing the Dustbox 2.0 in areas that are difficult to access or that present health and safety hazards, and choose a location that is free from slip or trip hazards.
 * Do not place the Dustbox 2.0 at a height or in a location where it could fall and injure passers-by.
 * Avoid positioning the Dustbox 2.0 close to boiler vents or in particularly humid environments as this will effect the readings. 
 
-If you are not able to find a location that is sheltered and you would like to build a Stevenson screen to house your Dustbox 2.0 outdoors, please see Annex 2 for detailed instructions.
+If you are not able to find a location that is sheltered and you would like to build a Stevenson screen to house your Dustbox 2.0 outdoors, please see Appendix 2 for detailed instructions.
 
 <p>
 <img src="./images/4.8_sensor_install_central.JPG" alt="Dustbox 2.0 connected with cable ties onto clamped wood" width="600">  
@@ -633,12 +633,12 @@ The first time you turn on your Dustbox 2.0 you will need to connect it to a Wi-
 13. The particulate matter, temperature and humidity data from your device will be sent to our database. You should now be able to view your data in [Airsift](https://airsift.citizensense.net/). Click on 'Dustboxes' and search for your Dustbox. You may need to wait a few minutes for your first readings to come through.
 
 <p>
-<img src="./images/4.13_holding_phone_data_piping_nice_hand.JPG" alt="Smartphone screen with Stream page showing data being sent from the Dustbox to the Citizen Sense server" title ="Viewing the Dustbox data on the server via Streams" width="600">  
- <br><sup>Viewing the Dustbox data on the server via Streams</sup>
+<img src="./images/4.13_airsift_dustbox_streams.png" alt="Airsift Dustboxes" title ="Viewing the Dustbox data on Airsift" width="600">  
+ <br><sup>Viewing the Dustbox data on Airsift</sup>
 </p>
 
 14. You can analyze your data in our DIY data analysis tool, [Airsift](https://airsift.citizensense.net/). This tool allows you to select the date range, data mean (e.g., hourly data), and to compare your data to other monitoring sites. You can also download your data as image files (.png) or data files (.csv) from the Airsift tool.
-15. For an example of how plots and graphs from the Airsift tool can be put together into ‘Data Stories’, see our [Deptford Data Stories](https://citizensense.net/data-stories-deptford/). Find more details and instructions for creating your own data story in [Section 5.6](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#56-airsift-data-stories).
+15. For an example of how plots, graphs, maps and observations from the Airsift tool and other sources can be put together into Data Stories, see our [Covid Data Stories](https://citizensense.net/data-stories-covid/). Find more details and instructions for creating your own data story in [Section 5.6](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#56-airsift-data-stories).
 
 Note: In case the Dustbox does not respond or the LED doesn't switch off, just press the reset button once and wait for it to reconnect. Once reconnected the LED will stop flashing.
 
