@@ -25,7 +25,7 @@ This AirKit Logbook includes resources for learning more about air quality and a
 
 AirKit is developed through the [Citizen Sense](https://citizensense.net) project, which is led by Prof Jennifer Gabrys as part of the [Planetary Praxis](https://planetarypraxis.org/) research group in the Department of Sociology at the University of Cambridge. This research has received funding from the European Research Council (ERC) to support [Citizen Sense](https://citizensense.net) through an ERC Starting Grant [313347](https://cordis.europa.eu/project/id/313347), and to support AirKit through an ERC Proof of Concept Grant [779921](https://cordis.europa.eu/project/id/779921). We welcome your comments and feedback to improve the toolkit. If you would like to get in touch, you can contact us at [info@citizensense.net](mailto:info@citizensense.net). AirKit is available to use under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. You are free to use, adapt, and share this toolkit for non-commercial purposes under the same CC BY-NC-SA license, and with attribution to Citizen Sense. 
  
-<p><img src="./images/1_walk_clean_air_for_dalmain_with_a_plane!.JPG" alt = "Green screen for improving air quality at Dalmain Primary School" title= "Green screen for improving air quality at Dalmain Primary School" width="600"><br><sup>A plane flies above the green screen at Dalmain Primary School</sup></p>
+<p><img src="./images/1_walk_clean_air_for_dalmain_with_a_plane!.JPG" alt = "Green screen for improving air quality at Dalmain Primary School" title= "Green screen for improving air quality at Dalmain Primary School" width="600"><br><sup>Green screen for improving air quality at Dalmain Primary School</sup></p>
 
 ## 2. Air Quality Monitoring
 
