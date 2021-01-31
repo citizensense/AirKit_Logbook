@@ -119,7 +119,7 @@ Analyzing your data is a key part of an air quality study. This allows you to in
 
 <p>
  <img src="./images/2.5_airsift_analysis_page.png" alt="Screenshot of the Airsift platform showing the interface and a line graph or particulate matter concentrations" title="Screenshot of the Airsift platform" width="700">
- <br><sup>Screenshot of the Airsift platform</sup>
+ <br><sup>Airsift platform for analyzing citizen data</sup>
 </p>
 
 While working with low-cost and DIY sensors, it is important to make sure that the data that is collected is of highest quality and can be used for the intended purpose. For this, Quality Assurance (QA) and Quality Control (QC) activities are recommended to harmonise air quality data ([Piedrahita, Ricardo, et al., 2014](https://amt.copernicus.org/articles/7/3325/2014/)). QA can be considered as an integrated management system to ensure that the device setup and the data quality meet the defined standards with a high level of confidence. QC activities include activities like device [calibration](https://github.com/citizensense/AirKit_Logbook/blob/master/toolkit.md#41-calibrating-your-dustbox-20). QC can be done in the field as well as through laboratory co-location of sensors with industry grade instruments. Such activities are important to limit the errors in the measurements. 
