@@ -660,7 +660,7 @@ If you are concerned about any changes in the equipment or have any questions ab
     
 <p>
 <img src="./images/4.14_MOT.jpg" alt="View of an MOT centre at one of the Citizen Sense monitoring sites" title="View of the MOT Centre" width="600"> 
- <br><sup>View of the MOT Centre</sup>
+ <br><sup>View of an MOT Centre for testing vehicle emissions</sup>
  </p>
     
 ## 5. Data Analysis and Data Stories
@@ -675,7 +675,7 @@ This section describes how to use Airsift, including how to view and analyze dat
 
 ### 5.1. Airsift DIY data analysis overview
 
-Airsift includes different charts and interactive features that allow you to visualize data in real-time and look back at historic sensor data. You can also add different data through the Observations Tool. Observations could include information about your local area including smells, noise, visible pollution, activity or changes in the environment, as well as health effects and media reports. In addition to the Observations Tool, there is a Data Stories Tool for assembling naratives about pollution issues in your local community.
+Airsift includes different charts and interactive features that allow you to visualize data in real-time and look back at historic sensor data. You can also add different data through the Observations tool. Observations could include information about your local area including smells, noise, visible pollution, activity or changes in the environment, as well as health effects and media reports. In addition to the Observations tool, there is a Data Stories tool for assembling naratives about pollution issues in your local community.
 
 As outlined in previous sections, air pollution is associated with urgent planetary health concerns. When collecting and analysing these data it is important to keep in mind the ethics of gathering air quality data. If you send data to the Airsift platform and consent to it being shared, it will be publicly viewable. Other contributors may use your data in their stories to understand their local air pollution. The AirKit toolkit is designed to help you produce the most accurate air quality data possible, however, it can not be assumed that the data is correct at all times. When you work with data on Airsift you agree to our [Terms of Use](https://citizensense.net/about/terms/).
 
@@ -717,13 +717,13 @@ While observing the data, it is advisable to look for sudden peaks (also known a
 
 ### 5.5. Airsift Observations
 
-In addition to Dustbox data that you can analyze through Airsift, local observations can be used to identify when you and your community sense pollution. These data can reveal possible sources of pollution in your local community. Observations can help you to explain spikes or anomalies in the data produced by Dustboxes and understand local spikes and trends. You can use Airsift to map observations about your local area. Observations might include things that you smell (burning), hear (traffic noise), see (smog, development activity) or feel (health effects). They can also include news about related to pollution, including warnings of high levels of pollution or reports about fires.
+In addition to analyzing Dustbox data, you can use Airsift to map observations about your local area. These data can reveal possible sources of pollution in your local community. Observations can help you to explain spikes or anomalies in the data produced by Dustboxes and understand local spikes and trends. Observations might include things that you smell (burning), hear (traffic noise), see (smog, development activity) or feel (health effects). They can also include news about related to pollution, including warnings of high levels of pollution or reports about fires.
 * You can view a list of existing observations and add observations by navigating to 'Observations'. Please note, you need to be signed in to create an observation.
 * Choose a title for your observation. Make your title clear and descriptive.
 * Under 'Body' add a short description of your observation.
 * If your observation is associated with a particular Dustbox, then you can select this from the drop-down menu.
 * Add the date and time of your observation, this will default to the current date and time.
-* Select the type of observation you are generating (i.e. smell, visible pollution etc.).
+* Select the type of observation you are generating 
 * Select the location of your observation using the map. Navigate to the site of your observation and click its location on the map. If your observation is a media report, locate this somewhere that is useful and easy to find in relation to the reported pollution activities or events.
 * You can choose to add an image to your observation.
 * You can now preview your observation or submit it for moderation.
@@ -747,7 +747,7 @@ In the early stages of your project, you will have considered the local area and
 **Local sources of particle pollution**
 Outline the key sources of pollution in your area. Here you might focus a paragraph on transport, waste, industry as appropriate for the area. Consider the ways in which sources might be impacting local air quality and what the specific sources are.  
 
-In a separate paragraph, note where Dustboxes are located. Give some context as to where the monitors are. Are they indoors or outdoors? Are they close to the road or tucked away in a back garden? You should also note and include other citizen and regulatory monitors that provide data for this area. 
+Note where Dustboxes are located. Give some context as to where the monitors are. Are they indoors or outdoors? Are they close to the road or tucked away in a back garden? You should also note and include other citizen and regulatory monitors that provide data for this area. 
 
 It is useful to produce a satellite map ([Mapbox](https://www.mapbox.com/maps/satellite)) that identifies the approximate location of Dustboxes that are being used in the data story and possible pollution sources. Before including devices on the map, make sure that you have permission to identify them. It is preferable to use fuzzy locations, with Dustbox circles located within a wider area rather than pinpointed to a specific location. 
 
@@ -763,10 +763,10 @@ Identify possible pollution sources including but not limited to:
   * Biogenic or geological sources of pollution (such as volcanoes, deserts, wildfires).
 
 **Regional and global sources of particulate pollution**
-In this section, describe regional pollution sources for your area. Regional sources can be identified by looking at local pollution reporting mechanisms. For instance, industry or wildfire might cause air pollution that travels several hundred kilometres to cause pollution events in your area. If the monitoring area is urban you would expect local sources to be related to transport. In a rural location particulate matter might be related to agricultural sources. 
+In this section, describe regional pollution sources for your area. Regional sources can be identified by looking at local pollution reporting mechanisms. For instance, industry or wildfire might cause air pollution that travels several hundred kilometres to cause pollution events in your area. If the monitoring area is urban you would expect local sources to be related to transport. In a rural location particulate matter might be related to agricultural or industrial sources. 
 
 **Observations**
-In this section, note any key observations from the monitoring period (and before). Observations can be used to help you understand some context behind the Dustbox data. The time and location of these events are important factors to note as they can help you identify possible sources of pollution. You can map observations on the Airsift platform and view the observations from other contributors. It is also useful to meet as a group and discuss your shared observations as other observations and experiences may become apparent. 
+In this section, note any key observations related to the monitoring period. Observations can be used to help you understand some context behind the Dustbox data. The time and location of these events are important factors to note as they can help you identify possible sources of pollution. You can map observations on the Airsift platform and view the observations from other contributors. It is also useful to meet as a group and discuss your shared observations as other observations and experiences may become apparent. 
 
 Observations might include unpleasant smells, sources of noise and visible sources of pollution such as smog, smoke and dust. It could also relate to visible activity such as construction work. Some residents might note the health effects of pollution. You could find news reports of fires, pollution warnings and other media that can help explain peaks in the data.
 
@@ -791,12 +791,12 @@ In this section you can use Airsift to identify the times of day and weather con
 * Possible construction or industry sources. 
 * Regional pollution events due to seasonal variation
 
-Create a plot for each of the Dustboxes in your monitoring study. Look for peaks across weekdays and weekends. If traffic is a source of pollution, you would expect to see peaks at times of increased congestion i.e. the morning and evening rush hour. 
+Create a plot for each of the Dustboxes in your monitoring study. Look for peaks across weekdays and weekends. If traffic is a source of pollution, you would expect to see peaks at times of increased congestion i.e., the morning and evening rush hour. 
 
 When you look at each plot consider how the Dustbox installation could impact the data. Dustboxes that are close to the roadside will often see higher peaks at rush hour. Those in the garden might show peaks at different times, for example barbecues on Sunday afternoons.
 
 **Which direction is PM2.5 coming from?**
-**Scatter Plots of PM2.5 Concentrations and Wind Direction** can be used to gauge the location of emissions sources in relation to the Dustbox monitors. Particulate matter is carried by the wind from emissions sources to the monitoring area. Wind direction is given in degrees where 0 (o) is North and 180 (o) is South. Note the directions where the highest levels of pollution are recorded. 
+**Scatter plots of PM2.5 concentrations and wind direction** can be used to gauge the location of emissions sources in relation to the Dustbox monitors. Particulate matter is carried by the wind from emissions sources to the monitoring area. Wind direction is given in degrees where 0 (o) is North and 180 (o) is South. Note the directions where the highest levels of pollution are recorded. 
 
 **Polar plots** can also illustrate this relationship. Colour contours reflect pollutant concentrations in relation to wind direction and wind speed. Calm conditions (zero wind) are shown in the centre, increasing up to 20 metres per second (ms-1) at the outer ring. The highest mean concentrations are shown in red, the lowest are in blue, in a dynamic scale. 
 
@@ -805,15 +805,15 @@ When you look at each plot consider how the Dustbox installation could impact th
 * Look at the satellite map and see if you can see any possible sources of these emissions. 
 
 **Under which weather conditions are PM2.5 levels most evident?**
-**Scatter Plots of PM2.5 Concentrations and Wind Speed** can be used to understand the relationship between wind speed and PM2.5 to identify if elevated levels are present at low winds, thereby indicating possible local emission source(s).
+**Scatter Plots of PM2.5 concentrations and wind speed** can be used to understand the relationship between wind speed and PM2.5 to identify if elevated levels are present at low winds, thereby indicating possible local emission source(s).
 
-**Scatter Plots of PM2.5 Concentrations and Temperature** can be used to check if there is a positive or negative correlation between temperature and PM2.5. This can help in understanding the seasonal variation of PM2.5 with respect to temperature.
+**Scatter Plots of PM2.5 concentrations and temperature** can be used to check if there is a positive or negative correlation between temperature and PM2.5. This can help in understanding the seasonal variation of PM2.5 with respect to temperature.
 
-**Scatter Plots of PM2.5 Concentrations and Humidity** can be used to illustrate the relationship between PM2.5 and humidity. During high humidity, there would be fewer occurrences of wind-blown dust.
+**Scatter Plots of PM2.5 concentrations and humidity** can be used to illustrate the relationship between PM2.5 and humidity. During high humidity, there would be fewer occurrences of wind-blown dust.
 
 ##### (4) Drawing The Evidence Together
 This section brings together a bullet point list that summarises all the evidence presented throughout the previous sections.
-* Summarise the sources of data that have been used in the study. 
+* Summarize the sources of data that have been used in the study. 
 * Draw out the key findings of your analysis and observations to identify key sources of pollution. 
 * You may wish to note whether sources were mostly regional or local and where the pollution might be coming from. 
 
@@ -839,12 +839,12 @@ Once you have finished writing your data story, you can publish it on the Airsif
 * Using the tool-bar you can add simple formatting to text (i.e. bold, italics etc.), add links to other media, and insert images and tables.
 * You can upload images from your computer or copy and paste plots from Analysis. 
 * Follow the structure outlined in the text box to complete your data story.
-* Some instructions for producing your Data Story are given in the right-hand-side of this page.
-* You can view and read examples of published data stories at [Deptford Data Stories](https://citizensense.net/data-stories-deptford/) and [AirKit Data Stories](datastories-airkit.citizensense.net/)
+* Some instructions for producing your Data Story are provided in the right-hand-side of this page.
+* You can view and read examples of [Data Stories](https://airsift.citizensense.net/datastories/) on the Airsift platform, and review stories written while testing the AirKit toolkit at [Covid Data Stories](https://citizensense.net/data-stories-covid/)
 
 <p>
- <img src="./images/5.2_diesel_char.jpg" alt="An illustration of a diesel char molecule" title="A diesel char molecule" width="600">
- <br><sup>A diesel char molecule</sup>
+ <img src="./images/5.2_diesel_char.jpg" alt="An illustration of a diesel char particle" title="A diesel char particle" width="600">
+ <br><sup>A diesel char particle</sup>
 </p>
 
 ## 6. Summary and Acknowledgments
@@ -853,9 +853,9 @@ This [AirKit](https://citizensense.net/projects/airkit/) Logbook outlines the pr
 
 We are interested to hear about air quality campaigns and how you are using or planning to use the AirKit to collect and analyze data. We are also interested in receiving  feedback or comments you have related to the AirKit. If you would like further information on any aspect of AirKit, please contact us on [info@citizensense.net](mailto:info@citizensense.net).
 
-The [Citizen Sense](https://citizensense.net/) and [AirKit](https://citizensense.net/projects/airkit/) projects are led by Professor [Jennifer Gabrys](https://planetarypraxis.org/people/jennifer-gabrys). AirKit has been developed working in collaboration with [Dr Sachit Mahajan](https://planetarypraxis.org/people/sachit-mahajan) and [Dr Joanne Armitage](https://planetarypraxis.org/people/joanne-armitage). Thanks are due to our additional collaborators including:
+The [Citizen Sense](https://citizensense.net/) and [AirKit](https://citizensense.net/projects/airkit/) projects are led by Professor [Jennifer Gabrys](https://planetarypraxis.org/people/jennifer-gabrys). AirKit has been developed working in collaboration with [Dr Sachit Mahajan](https://planetarypraxis.org/people/sachit-mahajan) and [Dr Joanne Armitage](https://planetarypraxis.org/people/joanne-armitage). [Verena Eireiner](https://planetarypraxis.org/people/anna-verena-eireiner) contributed to the global review of citizen-sensing projects, included in the Appendix as Additional Resources. Thanks are due to our additional collaborators including:
 
-[Common Knowledge](https://commonknowledge.coop/) contributed to the overall development of the [Airsift](airsift.citizensense.net/) platform. Lau Thiam Kok and Tassos Noulas contributed to the development of the data architecture that informed the Airsift platform. [Sarah Garcin](https://sarahgarcin.com/) developed the graphic design of the [AirKit Logbook webpage and PDF](https://airkit-logbook.citizensense.net).
+[Common Knowledge](https://commonknowledge.coop/) contributed to the overall design and development of the [Airsift](airsift.citizensense.net/) platform. Lau Thiam Kok and Tassos Noulas contributed to the development of the data architecture that informed the Airsift platform. [Sarah Garcin](https://sarahgarcin.com/) developed the graphic design of the [AirKit Logbook webpage and PDF](https://airkit-logbook.citizensense.net).
 
 The Citizen Sense Dustbox 2.0 included collaborative contributions to the materials design and 3D printing by [Andrea Rinaldi](https://www.andrearinaldi.eu/), who built on an earlier Citizen Sense Dustbox 1.0 designs developed in collaboration with [Francesca Perona](http://www.francescaperona.com/) and [Helen Pritchard](https://citizensense.net/about/people/helen-pritchard/).
 
@@ -978,7 +978,7 @@ The Dustbox comes with waterproof housing and a removable bolt that can be conne
 * Goggles
 * Hand saw or electric table saw
 * Ruler and pencil
-* Drill w/ bit just smaller than widest screw
+* Drill with bit just smaller than widest screw
 * Screw driver (preferably electric)
 * Spirit level (optional)
 * Clamp (optional)
@@ -1060,12 +1060,14 @@ The external screws secure all the pieces of wood together. The threaded shank s
 
 ### Air Quality Standards
    
-* The EU Air Quality Objective is the current legislation for air quality in the UK. The limit value for PM 2.5 is 25 µg/m3 over a 1-year period. As this is an average over a longer period of time than you will be undertaking monitoring, you can also compare your readings to the World Health Organisation (WHO) guidance for PM 2.5, which is 25 µg/m3 for the 24-hour mean, and 10 µg/m3 for the annual mean (lower than the EU Air Quality Objective). 
+* The EU Air Quality Objective was the most recent legislation for air quality in the UK. This Objective sets the limit value for PM2.5 to 25 µg/m3 over a 1-year period. As this is an average over a longer period of time than you will be undertaking monitoring, you can also compare your readings to the World Health Organisation (WHO) guidance for PM 2.5, which is 25 µg/m3 for the 24-hour mean, and 10 µg/m3 for the annual mean (note that this is lower than the EU Air Quality Objective). 
 
-More information on the EU Air Quality Objective is available at:
-http://ec.europa.eu/environment/air/quality/standards.htm
+More information on the WHO Air Quality Guidelines is available at: 
+https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health
 
 * [Automatic Urban and Rural Network (AURN)](https://uk-air.defra.gov.uk/networks/network-info?view=aurn) - Data on UK’s largest automatic monitoring network.
+
+* [EU Air Quality Objective](http://ec.europa.eu/environment/air/quality/standards.htm)
 
 * Greater London Authority (GLA), [Pollution and Air Quality.](https://www.london.gov.uk/WHAT-WE-DO/environment)
 
@@ -1105,9 +1107,9 @@ http://ec.europa.eu/environment/air/quality/standards.htm
 
 ### Global Air Quality Resources
 
-* [EPA Air Sensor toolbox](https://www.epa.gov/air-sensor-toolbox) - US EPA guidelines for using air quality sensors.
+* [EPA Air Sensor toolbox](https://www.epa.gov/air-sensor-toolbox) : US EPA guidelines for using air quality sensors.
 
-* [EPA Air Sensors Educational Video Series](https://www.epa.gov/air-sensor-toolbox/videos-air-sensor-measurements-data-quality-and-interpretation) - Videos on Air Sensor Measurements, Data Quality, and Interpretation.
+* [EPA Air Sensors Educational Video Series](https://www.epa.gov/air-sensor-toolbox/videos-air-sensor-measurements-data-quality-and-interpretation) : Videos on Air Sensor Measurements, Data Quality, and Interpretation.
 
 * World Health Organisation (WHO), Ambient (outdoor) air quality and health, https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health
 
@@ -1164,9 +1166,9 @@ http://ec.europa.eu/environment/air/quality/standards.htm
 
 ### Global Air Pollution Visualization Tools
 
-* [IQ Air - Air Visual](https://www.airvisual.com/) - For visualizing air quality anywhere in the world.
+* [IQ Air - Air Visual](https://www.airvisual.com/) : For visualizing air quality anywhere in the world.
 
-* [World's Air Pollution](https://waqi.info/) - Real-time Air Quality Index.
+* [World's Air Pollution](https://waqi.info/) : Real-time Air Quality Index.
 
 
 ### Air Quality Research Articles
@@ -1177,7 +1179,7 @@ http://ec.europa.eu/environment/air/quality/standards.htm
 
 * Dockery, Douglas W., C. Arden Pope, Xiping Xu, John D. Spengler, James H. Ware, Martha E. Fay, Benjamin G. Ferris Jr, and Frank E. Speizer. "An association between air pollution and mortality in six US cities." New England journal of medicine 329, no. 24 (1993): 1753-1759.
 
-* Dutta, Prabal, Paul M. Aoki, Neil Kumar, Alan Mainwaring, Chris Myers, Wesley Willett, and Allison Woodruff. "Common sense: participatory urban sensing using a network of handheld air quality monitors." In Proceedings of the 7th ACM conference on embedded networked sensor systems, pp. 349-350. 2009.
+* Dutta, Prabal, Paul M. Aoki, Neil Kumar, Alan Mainwaring, Chris Myers, Wesley Willett, and Allison Woodruff. "Common sense: participatory urban sensing using a network of handheld air quality monitors." In Proceedings of the 7th ACM conference on embedded networked sensor systems (2009): 349-350. 
 
 * Eilenberg, S. Rose, R. Subramanian, Carl Malings, Aliaksei Hauryliuk, Albert A. Presto, and Allen L. Robinson. "Using a network of lower-cost monitors to identify the influence of modifiable factors driving spatial patterns in fine particulate matter concentrations in an urban environment." Journal of Exposure Science & Environmental Epidemiology (2020): 1-13.
 
