@@ -135,7 +135,7 @@ When documenting your sensor setup, it is important to describe your approach to
 
 The Dustbox 2.0 is a particulate matter monitor designed by Citizen Sense to undertake air quality sensing. We have designed the Dustbox 2.0 based on our experience of citizen sensing in the US and the UK, including with our [Dustbox 1.0](https://citizensense.net/kits/dustbox-hardware/). 
 
-The shape of the Dustbox 2.0 resembles particulate matter, including pollen and diesel particles, when magnified under an electron microscope. The housing is 3D-printed. The Dustbox 2.0 uses a [Plantower PMS5003](http://www.plantower.com/en/content/?108.html) sensor to sense particles. These sensors have laser counters that measure airborne particulate matter. There is a small fan that draws air into the sensor and passes it through a laser that can detect the concentration and size of particles in the air. 
+The shape of the Dustbox 2.0 resembles particulate matter, including pollen and diesel particles, when magnified under an electron microscope. The housing is 3D-printed. The Dustbox 2.0 uses a [Plantower PMS5003](http://www.plantower.com/en/content/?108.html) sensor to sense particles. These sensors use an infrared laser to optically sense and measure airborne particulate matter. There is a small fan that draws air into the sensor and passes it through a laser that can detect the concentration and size of particles in the air. 
 
 Every 60 seconds, the Dustbox 2.0 monitor measures 3 different environmental variables: (1) particulate matter, (2) temperature and (3) humidity. Such fine-grained data can help to observe and understand even small variations in the surrounding air. The Dustbox 2.0 connects to a Wi-Fi network using a microcontroller and sends data to the Airsift(airsift.citizensense.net/) platform for analysis. 
 
@@ -164,8 +164,8 @@ To build the Dustbox 2.0 you will need to follow four steps:
 ### 3.1 Gathering parts and tools
 The components required to build the Dustbox 2.0 sensor are listed below and include resistors, sensors, an LED, an ESP8266 Wi-Fi board, and the Dustbox 2.0 printed circuit board (PCB). A full list of the parts and tools required to build the Dustbox 2.0 are provided below. Before you start to build the sensor it is important to have all the components available for assembly. When you are ready to begin building your Dustbox 2.0, your work station might look a bit like this:
 
- <p><img src="./images/3.4_rev2_parts_box_layout.jpeg" alt="An overhead view of a tray containing sensors, resistors and other electronics parts" title="Dustbox parts organised" width="600"><br>
- <sup>All the parts used in the Dustbox 2.0</sup></p>
+ <p><img src="./images/3.4_rev2_parts_box_layout.jpeg" alt="Parts used in assembling the Dustbox 2.0" title="Dustbox parts organised" width="600"><br>
+ <sup>Parts used in assembling the Dustbox 2.0</sup></p>
 
 #### Electronic parts:
 
