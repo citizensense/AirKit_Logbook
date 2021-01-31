@@ -25,11 +25,11 @@ This AirKit Logbook includes resources for learning more about air quality and a
 
 AirKit is developed through the [Citizen Sense](https://citizensense.net) project, which is led by Prof Jennifer Gabrys as part of the [Planetary Praxis](https://planetarypraxis.org/) research group in the Department of Sociology at the University of Cambridge. This research has received funding from the European Research Council (ERC) to support [Citizen Sense](https://citizensense.net) through an ERC Starting Grant [313347](https://cordis.europa.eu/project/id/313347), and to support AirKit through an ERC Proof of Concept Grant [779921](https://cordis.europa.eu/project/id/779921). We welcome your comments and feedback to improve the toolkit. If you would like to get in touch, you can contact us at [info@citizensense.net](mailto:info@citizensense.net). AirKit is available to use under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. You are free to use, adapt, and share this toolkit for non-commercial purposes under the same CC BY-NC-SA license, and with attribution to Citizen Sense. 
  
-<p><img src="./images/1_walk_clean_air_for_dalmain_with_a_plane!.JPG" alt = "A plane flies above the green screen at Dalmain Primary School" title= "A plane flies above the green screen at Dalmain Primary School" width="600"><br><sup>A plane flies above the green screen at Dalmain Primary School</sup></p>
+<p><img src="./images/1_walk_clean_air_for_dalmain_with_a_plane!.JPG" alt = "A plane flies above the green screen at Dalmain Primary School" title= "Green screen for improving air quality at Dalmain Primary School" width="600"><br><sup>A plane flies above the green screen at Dalmain Primary School</sup></p>
 
 ## 2. Air Quality Monitoring
 
-The prevalence of air quality monitoring has increased rapidly in the past decade in response to increasing concerns around the health effects of pollution. Air quality monitoring networks usually have a regulatory function and are typically managed by government agencies, sometimes in collaboration with academic institutions and scientists. Large and expensive equipment typically forms the sensing infrastructure of these networks, which provide highly accurate measurements of pollution levels. However, the cost and size of these instruments has a significant impact on the density of networks and leaves many areas sparsely monitored, or not monitored at all. 
+Air quality monitoring has increased rapidly in the past decade in response to concerns around the health effects of pollution. Air quality monitoring networks usually have a regulatory function and are typically managed by government agencies, sometimes in collaboration with academic institutions and scientists. Large and expensive equipment typically forms the sensing infrastructure of these networks, which provide highly accurate measurements of pollution levels. However, the cost and size of these instruments has a significant impact on the density of networks and leaves many areas sparsely monitored, or not monitored at all. 
 
 At the same time, there has been a marked increase in the availability and accuracy of low-cost monitors. As a result, citizen monitoring activities are now much more common, and many people are setting up sensors in their local areas. Pollution is experienced at both local and regional levels. Localised and denser networks of monitors can show differences across local and regional pollution levels, while helping to identify possible pollution sources in specific areas. 
 
@@ -42,7 +42,7 @@ While sensor devices offer new opportunities for citizens to monitor air quality
 
 Air pollution is a planetary health hazard. With continuous industrialisation and urbanisation, it has emerged as one of the most important risk factors affecting human health and sustainable development. Air pollution is a leading risk factor for non-communicable diseases and accounts for 22% of all deaths from cardiovascular related disease, 26% of deaths related to ischaemic heart disease, 25% of deaths related to stroke, 53% of deaths related to chronic obstructive pulmonary disease and 40% of deaths related to lung cancer ([Reddy, K.S. and Roberts, J.H., 2019](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(18)30286-9/fulltext)).
 
-In addition to polluting environments, air pollution can also have indirect health effects and contribute to climate change. Increases in the greenhouse gases can lead to extreme weather conditions, including heat waves and smog events, which can have further negative impacts on human health. 
+In addition to polluting environments, air pollution can also have indirect health effects and contribute to climate change. Increases in greenhouse gases can lead to extreme weather conditions, including heat waves and smog events, which can have further negative impacts on human health. 
 
 ### 2.2. Why monitor your air quality?
 
@@ -56,11 +56,11 @@ Primary sources of PM include the combustion of fuel and other anthropogenic act
 
 Fixed air quality monitoring stations are the primary means to collect air quality data in many parts of the world. Yet their deployment cost and maintenance often results in accurate but geographically sparse monitoring. Citizen air quality monitoring practices provide a way to monitor personal exposure as well as generate fine-grained air quality data at a higher spatio-temporal resolution.
 
-Because PM has a significant effect on health, and existing monitoring networks are not entirely effective in identifying localised pollution sources, we have developed this AirKit resource for communities to set up their own citizen sensing networks.
+Because PM has a significant effect on health, and existing monitoring networks are not entirely effective in identifying localised pollution sources, we have developed this AirKit resource for communities to set up their own citizen sensing networks for monitoring particulate matter.
 
 ### 2.3. How to design an air quality project
 
-Maybe you have noticed that at certain times of day the air in your local area looks hazy or smells polluted. You close your windows and avoid going outside at certain times of day. Perhaps you have taken a walk and noticed a new planning application posted near the site of a community greenspace, and wonder how this will affect changes in air quality.
+Maybe you have noticed that the air in your local area looks hazy or smells polluted. You close your windows and avoid going outside at certain times of day. Perhaps you have taken a walk and noticed a new planning application posted near the site of a community greenspace, and wonder how this will affect changes in air quality.
 
 There are many reasons why you may be interested to organise a citizen sensing study. This section includes some guidance on how to organise your community to monitor air quality including: what to look out for, how to plan a study, how to set up monitors, how to collect data and how to analyze data.
 
@@ -86,7 +86,7 @@ Examples of questions:
 <p>
 <img src="./images/2.2_walk_bp_petrol_station.JPG" alt="View of a petrol station on the South Circular, London" title="View of a petrol station on the South Circular, London" width="600"> 
 <img src="./images/2.3_walk_forest_hill_busy_junction_2.JPG" alt="View of a junction on the South Circular, London" title="View of a junction on the South Circular, London" width="600"> 
- <br><sup>Views along the South Circular, London</sup>
+ <br><sup>Traffic on the South Circular road, London</sup>
  </p>
 
 We encourage a collective approach to monitoring because it can create a more detailed view of air quality issues in your area to have multiple data points and observers of local conditions. This approach enables you to develop a denser and strategically-placed network of sensors that can create a richer data set. Citizen data can then be used to evidence and support community concerns about pollution and urban infrastructure. It can also potentially allow you to form a more comprehensive and strategic response to potential sources of pollution in your area. 
