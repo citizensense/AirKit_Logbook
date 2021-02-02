@@ -736,7 +736,7 @@ To add a Data Story to Airsift, select 'Stories' in the navigation window and th
 
 #### 5.6.1. Writing Your Data Story 
 
-Writing a Data Story is a detailed and collaborative process that will likely require several iterations and revisions. The instructions below can act as a guideline to help you structure and complete a Data Story based on citizen data. You can see this structure in action by browsing published [Data Stories](https://citizensense.net/data-stories-deptford/). It can be helpful to include images of your local area in the data story to illustrate the landscape, highlight visible pollution and activity, or demonstrate how and where sensors are installed.  
+Writing a Data Story is a detailed and collaborative process that will likely require several iterations and revisions. The instructions below can act as a guideline to help you structure and complete a Data Story based on citizen data. You can see this structure in action by browsing published [Data Stories](https://airsift.citizensense.net/datastories/) as well as our AirKit test [Covid Data Stories](https://citizensense.net/data-stories-covid/). It can be helpful to include images of your local area in the data story to illustrate the landscape, highlight visible pollution and activity, or demonstrate how and where sensors are installed.  
 
 ##### Summary
 At the start of the data story, it is useful to give a summary of the key findings and the data used in your Data Story. This section should be short at around 1–2 paragraphs.
