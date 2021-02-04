@@ -50,9 +50,9 @@ Air pollution can be broadly classified into suspended particles and gases. Susp
 
 Primary sources of PM include the combustion of fuel and other anthropogenic activities such as agriculture and transport infrastructure are considered to be significant sources of PM. Additional sources of PM include wildfires, desert dust and volcanoes ([Mallone, S. et al., 2011](https://ehp.niehs.nih.gov/doi/full/10.1289/ehp.1003026)). Components of PM include finely divided solids or liquids such as dust, soot, smoke, aerosols, fumes and condensing vapors. Particle pollution in the air comes in a wide range of sizes. The standard measuring unit for these particles is micrograms per cubic meter:
 
-* PM 1: Particles with diameter <1 μm
-* PM 2.5: Particles with diameter <2.5 μm  
-* PM 10: Particles with diameter <10 μm
+* PM 1: Particles with diameter ≤1 μm
+* PM 2.5: Particles with diameter ≤2.5 μm  
+* PM 10: Particles with diameter ≤10 μm
 
 Fixed air quality monitoring stations are the primary means to collect air quality data in many parts of the world. Yet their deployment cost and maintenance often results in accurate but geographically sparse monitoring. Citizen air quality monitoring practices provide a way to monitor personal exposure as well as generate fine-grained air quality data at a higher spatio-temporal resolution.
 
@@ -416,9 +416,9 @@ First, check that you have selected the correct board (Adafruit Feather HUZZAH E
 
 Every time you upload code the ESP8266 board needs to be put into bootload mode, which allows it to receive code. To do this: 
 
-* Hold down the **GPIO0** button (red LED bright)
-* Still holding **GPIO0** press the **RESET** button (adjacent to the red LED bright button)
-* Release the **RESET** button then release the **GPIO0** button (which should now be a dimmer red LED)
+* Hold down the **GPI0** button (red LED bright)
+* Still holding **GPI0** press the **RESET** button (adjacent to the red LED bright button)
+* Release the **RESET** button then release the **GPI0** button (which should now be a dimmer red LED)
 
 There is no timeout for this mode as the bootload mode is continuous, so you can continue to the upload code button in Arduino when you are ready.
 
