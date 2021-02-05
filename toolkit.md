@@ -196,7 +196,7 @@ There are two Dustbox 2.0 shapes: **pollen** and **diesel char**. The diesel cha
 
 The prototypes we have built are produced by [Materialise](https://www.materialise.com/en) and printed in the Multi Jet Fusion PA 12 material. All you need to do is download the [STL files](https://github.com/citizensense/AirKit_Logbook/tree/main/dustbox_2_0_stl_files) and send them to your preferred manufacturer. Printing the enclosure costs around €200 each. You can easily print the [STL files](https://github.com/citizensense/AirKit_Logbook/tree/main/dustbox_2_0_stl_files) yourself if you have access to a 3D printer. You should print with materials that offer some weather-proofing and UV resistance.
 
-It is possible to create your own housing as cheaper alternative. For instance, the housing could be a small box with holes drilled out for the power cable and sensor air inlet. Be sure that the housing is waterproof and protects the electronics. 
+It is possible to create your own housing as cheaper alternative. For instance, the housing could be a small box with holes drilled out for the power cable and sensor air inlet. You will need to ensure that the housing is waterproof and protects the electronics. 
 
 
 #### Dustbox 2.0 PCB
